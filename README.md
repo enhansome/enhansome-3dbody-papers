@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,531 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,540 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -584,7 +584,7 @@
 
 [Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild](https://arxiv.org/abs/2007.15649). ECCV, 2020. [\[Page\]](https://jasonyzhang.com/phosa) [\[Code\]](https://github.com/facebookresearch/phosa) ⚠️ Archived
 
-[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 230 | 🐛 10 | 🌐 Python | 📅 2021-07-13
+[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 231 | 🐛 10 | 🌐 Python | 📅 2021-07-13
 
 [GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 388 | 🐛 10 | 🌐 Python | 📅 2022-03-08
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
