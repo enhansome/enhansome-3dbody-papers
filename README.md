@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,540 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-14
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,549 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -338,7 +338,7 @@
 
 [SOMA: Solving Optical Marker-Based MoCap Automatically](https://arxiv.org/abs/2110.04431). ICCV, 2021. [\[Page\]](https://soma.is.tue.mpg.de/)
 
-[TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 450 | 🐛 9 | 🌐 Python | 📅 2025-05-08
+[TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 449 | 🐛 9 | 🌐 Python | 📅 2025-05-08
 
 [Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [\[Page\]](https://xinyu-yi.github.io/PIP/) [\[Code\]](https://github.com/Xinyu-Yi/PIP) ⭐ 362 | 🐛 12 | 🌐 Python | 📅 2025-05-08
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
