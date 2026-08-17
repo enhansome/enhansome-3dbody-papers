@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,677 | 🐛 134 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,678 | 🐛 134 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,163 | 🐛 89 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,549 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,567 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -260,7 +260,7 @@
 
 [TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://arxiv.org/abs/2306.02850). CVPR, 2023. [\[Page\]](https://www.yusun.work/TRACE/TRACE.html) [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,537 | 🐛 196 | 🌐 Python | 📅 2024-11-14
 
-[GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras](https://arxiv.org/abs/2112.01524). CVPR (Oral), 2022. [\[Page\]](https://nvlabs.github.io/GLAMR/) [\[Code\]](https://github.com/NVlabs/GLAMR) ⭐ 389 | 🐛 41 | 🌐 Python | 📅 2026-02-18
+[GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras](https://arxiv.org/abs/2112.01524). CVPR (Oral), 2022. [\[Page\]](https://nvlabs.github.io/GLAMR/) [\[Code\]](https://github.com/NVlabs/GLAMR) ⭐ 389 | 🐛 43 | 🌐 Python | 📅 2026-02-18
 
 [Scene-Aware 3D Multi-Human Motion Capture](https://arxiv.org/abs/2301.05175). Eurographics, 2023. [\[Page\]](https://vcai.mpi-inf.mpg.de/projects/scene-aware-3d-multi-human/) [\[Code\]](https://github.com/dluvizon/scene-aware-3d-multi-human) ⭐ 131 | 🐛 6 | 🌐 Python | 📅 2023-08-02
 
@@ -578,7 +578,7 @@
 
 [Rhythm is a Dancer: Music-Driven Motion Synthesis with Global Structure](https://arxiv.org/abs/2111.12159). ArXiv, 2021.
 
-[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 436 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 437 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 ## Human-Object Interaction
 
@@ -586,7 +586,7 @@
 
 [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 231 | 🐛 10 | 🌐 Python | 📅 2021-07-13
 
-[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 388 | 🐛 10 | 🌐 Python | 📅 2022-03-08
+[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 389 | 🐛 10 | 🌐 Python | 📅 2022-03-08
 
 [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [\[Page\]](http://4dqv.mpi-inf.mpg.de/GraviCap/) [\[Code\]](https://github.com/rishabhdabral/gravicap) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2021-10-12
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
