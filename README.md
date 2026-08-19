@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,579 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-16
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,580 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-19
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -464,7 +464,7 @@
 
 [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313). CVPR (Oral), 2021. [\[Page\]](https://scanimate.is.tue.mpg.de) [\[Code\]](https://github.com/shunsukesaito/SCANimate) ⭐ 283 | 🐛 8 | 🌐 Python | 📅 2021-12-31
 
-[ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [\[Page\]](https://icon.is.tue.mpg.de/) [\[Code\]](https://github.com/YuliangXiu/ICON) ⭐ 1,673 | 🐛 52 | 🌐 Python | 📅 2023-11-23
+[ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [\[Page\]](https://icon.is.tue.mpg.de/) [\[Code\]](https://github.com/YuliangXiu/ICON) ⭐ 1,674 | 🐛 52 | 🌐 Python | 📅 2023-11-23
 
 [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/abs/2212.07422). CVPR, 2023. [\[Page\]](https://xiuyuliang.cn/econ/) [\[Code\]](https://github.com/YuliangXiu/ECON) ⭐ 1,206 | 🐛 41 | 🌐 Python | 📅 2024-09-17
 
@@ -616,7 +616,7 @@
 
 [HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction](https://arxiv.org/abs/2103.10602). I3D, 2021.
 
-[Skeleton-Aware Networks for Deep Motion Retargeting](https://deepmotionediting.github.io/papers/skeleton-aware-camera-ready.pdf). SIGGRAPH, 2020. [\[Page\]](https://deepmotionediting.github.io/retargeting) [\[Code\]](https://github.com/DeepMotionEditing/deep-motion-editing) ⭐ 1,720 | 🐛 64 | 🌐 Python | 📅 2024-07-12
+[Skeleton-Aware Networks for Deep Motion Retargeting](https://deepmotionediting.github.io/papers/skeleton-aware-camera-ready.pdf). SIGGRAPH, 2020. [\[Page\]](https://deepmotionediting.github.io/retargeting) [\[Code\]](https://github.com/DeepMotionEditing/deep-motion-editing) ⭐ 1,721 | 🐛 64 | 🌐 Python | 📅 2024-07-12
 
 [Contact-Aware Retargeting of Skinned Motion](https://arxiv.org/abs/2109.07431). ICCV, 2021.
 
