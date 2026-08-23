@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,597 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,607 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -62,7 +62,7 @@
 
 ## Body Pose
 
-[MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency](https://arxiv.org/abs/2006.12075). ToG, 2020. [\[Page\]](http://rubbly.cn/publications/motioNet) [\[Code\]](https://github.com/Shimingyi/MotioNet) ⭐ 588 | 🐛 19 | 🌐 Python | 📅 2022-04-28
+[MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency](https://arxiv.org/abs/2006.12075). ToG, 2020. [\[Page\]](http://rubbly.cn/publications/motioNet) [\[Code\]](https://github.com/Shimingyi/MotioNet) ⭐ 589 | 🐛 19 | 🌐 Python | 📅 2022-04-28
 
 [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf). SIGGRAPH Asia, 2017. [\[Page\]](http://gvv.mpi-inf.mpg.de/projects/VNect) [\[Code\]](http://gvv.mpi-inf.mpg.de/projects/VNect)
 
@@ -150,7 +150,7 @@
 
 [Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture](https://arxiv.org/abs/2203.14065). CVPR, 2022. [\[Page\]](https://www.yangangwang.com/papers/HBZ-NM-2022-03.html)
 
-[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MocapNET) ⭐ 948 | 🐛 21 | 🌐 C++ | 📅 2026-08-13
+[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MocapNET) ⭐ 949 | 🐛 21 | 🌐 C++ | 📅 2026-08-13
 
 [DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild](https://arxiv.org/abs/2008.09457). ECCV, 2020.  [\[Code\]](https://github.com/naver/dope) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2020-11-23
 
@@ -340,7 +340,7 @@
 
 [TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 450 | 🐛 9 | 🌐 Python | 📅 2025-05-08
 
-[Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [\[Page\]](https://xinyu-yi.github.io/PIP/) [\[Code\]](https://github.com/Xinyu-Yi/PIP) ⭐ 361 | 🐛 12 | 🌐 Python | 📅 2025-05-08
+[Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [\[Page\]](https://xinyu-yi.github.io/PIP/) [\[Code\]](https://github.com/Xinyu-Yi/PIP) ⭐ 362 | 🐛 12 | 🌐 Python | 📅 2025-05-08
 
 [LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds](https://arxiv.org/abs/2203.14698). CVPR, 2022.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
