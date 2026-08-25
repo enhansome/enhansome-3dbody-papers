@@ -15,7 +15,7 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2684
+            "stars": 2685
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-21T19:58:51Z",
+            "last_commit": "2026-08-25T18:30:01Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38614
+            "stars": 38618
           }
         },
         {
@@ -2160,7 +2160,7 @@
             "last_commit": "2023-12-07T16:37:46Z",
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 437
+            "stars": 438
           }
         }
       ],
@@ -2888,7 +2888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:10:43.752Z",
+    "last_updated": "2026-08-25T21:12:25.495Z",
     "original_repository": "3DFaceBody/awesome-3dbody-papers",
     "original_repository_id": 295191683,
     "original_repository_sha": "caffe07fad1915bbff5d297be7dfa9dbaa3f50fc",
