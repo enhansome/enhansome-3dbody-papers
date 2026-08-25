@@ -90,7 +90,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
@@ -2888,7 +2888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:14:32.836Z",
+    "last_updated": "2026-08-25T06:10:43.752Z",
     "original_repository": "3DFaceBody/awesome-3dbody-papers",
     "original_repository_id": 295191683,
     "original_repository_sha": "caffe07fad1915bbff5d297be7dfa9dbaa3f50fc",
