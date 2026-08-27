@@ -30,7 +30,7 @@
 
 [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,685 | 🐛 134 | 🌐 Python | 📅 2024-08-12
 
-[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,163 | 🐛 89 | 🌐 Python | 📅 2024-02-23
+[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,165 | 🐛 89 | 🌐 Python | 📅 2024-02-23
 
 [SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](https://arxiv.org/pdf/2004.00326). Eurographics, 2020. [\[Page\]](http://dancasas.github.io/projects/SoftSMPL)
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,625 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-26
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,630 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-27
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -62,7 +62,7 @@
 
 ## Body Pose
 
-[MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency](https://arxiv.org/abs/2006.12075). ToG, 2020. [\[Page\]](http://rubbly.cn/publications/motioNet) [\[Code\]](https://github.com/Shimingyi/MotioNet) ⭐ 589 | 🐛 19 | 🌐 Python | 📅 2022-04-28
+[MotioNet: 3D Human Motion Reconstruction from Monocular Video with Skeleton Consistency](https://arxiv.org/abs/2006.12075). ToG, 2020. [\[Page\]](http://rubbly.cn/publications/motioNet) [\[Code\]](https://github.com/Shimingyi/MotioNet) ⭐ 590 | 🐛 19 | 🌐 Python | 📅 2022-04-28
 
 [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/content/VNect_SIGGRAPH2017.pdf). SIGGRAPH Asia, 2017. [\[Page\]](http://gvv.mpi-inf.mpg.de/projects/VNect) [\[Code\]](http://gvv.mpi-inf.mpg.de/projects/VNect)
 
@@ -162,7 +162,7 @@
 
 ## Naked Body Mesh
 
-[Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). ECCV, 2016. [\[Page\]](http://smplify.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,163 | 🐛 89 | 🌐 Python | 📅 2024-02-23
+[Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). ECCV, 2016. [\[Page\]](http://smplify.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,165 | 🐛 89 | 🌐 Python | 📅 2024-02-23
 
 [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf). CVPR, 2018. [\[Page\]](https://www.seas.upenn.edu/~pavlakos/projects/humanshape)
 
@@ -314,7 +314,7 @@
 
 [Monocular Total Capture: Posing Face, Body and Hands in the Wild](https://arxiv.org/abs/1812.01598). CVPR (Oral), 2019. [\[Page\]](http://domedb.perception.cs.cmu.edu/mtc.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture) ⭐ 676 | 🐛 18 | 🌐 C++ | 📅 2023-09-18
 
-[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,163 | 🐛 89 | 🌐 Python | 📅 2024-02-23
+[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,165 | 🐛 89 | 🌐 Python | 📅 2024-02-23
 
 [FrankMocap: A Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration](https://arxiv.org/pdf/2008.08324.pdf). ArXiv, 2020. [\[Page\]](https://penincillin.github.io/frank_mocap) [\[Code\]](https://github.com/facebookresearch/frankmocap) ⚠️ Archived
 

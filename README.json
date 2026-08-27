@@ -30,7 +30,7 @@
             "last_commit": "2024-02-23T12:10:19Z",
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2163
+            "stars": 2165
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-26T23:28:07Z",
+            "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38625
+            "stars": 38630
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2022-04-28T09:38:22Z",
             "owner": "Shimingyi",
             "repo": "MotioNet",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2024-02-23T12:10:19Z",
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2163
+            "stars": 2165
           }
         },
         {
@@ -1287,7 +1287,7 @@
             "last_commit": "2024-02-23T12:10:19Z",
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2163
+            "stars": 2165
           }
         },
         {
@@ -2888,9 +2888,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:17:05.910Z",
-    "original_repository": "3DFaceBody/awesome-3dbody-papers",
-    "original_repository_id": 295191683,
+    "last_updated": "2026-08-27T11:17:46.830Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 295191683,
+      "language": null,
+      "last_commit": "2024-01-01T11:45:17Z",
+      "owner": "3DFaceBody",
+      "repo": "awesome-3dbody-papers",
+      "stars": 664
+    },
     "original_repository_sha": "caffe07fad1915bbff5d297be7dfa9dbaa3f50fc",
     "enhanced_repository": "enhansome/enhansome-3dbody-papers",
     "enhanced_repository_description": null,
