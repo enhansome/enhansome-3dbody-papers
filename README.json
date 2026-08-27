@@ -87,10 +87,10 @@
             "archived": false,
             "id": 151619717,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T18:30:01Z",
+            "last_commit": "2026-08-26T23:28:07Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38618
+            "stars": 38625
           }
         },
         {
@@ -882,7 +882,7 @@
             "last_commit": "2025-01-08T10:01:45Z",
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1617
+            "stars": 1618
           }
         },
         {
@@ -2337,7 +2337,7 @@
             "last_commit": "2024-11-04T07:25:05Z",
             "owner": "zhan-xu",
             "repo": "RigNet",
-            "stars": 1518
+            "stars": 1519
           }
         },
         {
@@ -2790,7 +2790,7 @@
             "last_commit": "2024-07-25T11:10:05Z",
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1009
+            "stars": 1010
           }
         },
         {
@@ -2888,7 +2888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:12:25.495Z",
+    "last_updated": "2026-08-27T00:17:05.910Z",
     "original_repository": "3DFaceBody/awesome-3dbody-papers",
     "original_repository_id": 295191683,
     "original_repository_sha": "caffe07fad1915bbff5d297be7dfa9dbaa3f50fc",
