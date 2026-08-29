@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMPL-X",
+            "homepage": "https://smpl-x.is.tue.mpg.de/",
             "id": 185815703,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-12T05:09:47Z",
+            "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2687
+            "stars": 2687,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image",
+            "homepage": "https://smpl-x.is.tue.mpg.de/",
             "id": 191319653,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-23T12:10:19Z",
+            "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2167
+            "stars": 2167,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -42,12 +52,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECCV2020 - Official code repository for the paper : STAR - A Sparse Trained Articulated Human Body Regressor",
+            "homepage": "https://star.is.tue.mpg.de",
             "id": 286755049,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-02T15:28:58Z",
+            "open_issues": 13,
             "owner": "ahmedosman",
             "repo": "STAR",
-            "stars": 726
+            "stars": 726,
+            "topics": [
+              "3d-models",
+              "body",
+              "eccv2020",
+              "graphics",
+              "graphics-3d",
+              "human",
+              "pose-estimation",
+              "smpl",
+              "smplx"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -58,12 +83,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official ECCV 2022 repository for SUPR: A Sparse Unified Part-Based Human Representation",
+            "homepage": null,
             "id": 552546495,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-30T07:23:59Z",
+            "open_issues": 5,
             "owner": "ahmedosman",
             "repo": "SUPR",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -74,12 +104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 280243695,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-15T18:39:26Z",
+            "open_issues": 0,
             "owner": "Intelligent-Systems-Research-Group",
             "repo": "JOMS",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -90,12 +125,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38642
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -106,12 +150,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "We developed a method animating a statistical 3D human model for biomechanical analysis to increase accessibility for non-experts, like patients, athletes, or designers.",
+            "homepage": null,
             "id": 315595675,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-15T15:46:23Z",
+            "open_issues": 3,
             "owner": "mad-lab-fau",
             "repo": "BASH-Model",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "3d-models",
+              "animated",
+              "biomechanics",
+              "human-pose-estimation",
+              "opensim",
+              "scape",
+              "statistical-model",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -122,12 +180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for the paper SMPLicit: Topology-aware Generative Model for Clothed People (CVPR 2021)",
+            "homepage": "http://www.iri.upc.edu/people/ecorona/smplicit/",
             "id": 355960033,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-01T06:52:43Z",
+            "open_issues": 14,
             "owner": "enriccorona",
             "repo": "SMPLicit",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -138,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'21] LEAP: Learning Articulated Occupancy of People https://neuralbodies.github.io/LEAP",
+            "homepage": "https://neuralbodies.github.io/LEAP",
             "id": 343527889,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-29T16:10:06Z",
+            "open_issues": 1,
             "owner": "neuralbodies",
             "repo": "leap",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -160,12 +228,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep neural network that directly reconstructs the motion of a 3D human skeleton from monocular video [ToG 2020]",
+            "homepage": "https://rubbly.cn/publications/motioNet/",
             "id": 273769962,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-04-28T09:38:22Z",
+            "open_issues": 19,
             "owner": "Shimingyi",
             "repo": "MotioNet",
-            "stars": 590
+            "stars": 590,
+            "topics": [
+              "3d-pose-estimation",
+              "bvh",
+              "character-animation",
+              "deep-neural-network"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -176,12 +254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time The implementation is based on [SIGGRAPH Aisa'20](https://vcai.mpi-inf.mpg.de/projects/PhysCap/). ",
+            "homepage": null,
             "id": 403098012,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-20T13:48:45Z",
+            "open_issues": 5,
             "owner": "soshishimada",
             "repo": "PhysCap_demo_release",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -192,12 +275,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo code for \"Neural PhysCap\" Neural Monocular 3D Human Motion Capture with Physical Awareness [SIGGRAPH 2021]",
+            "homepage": null,
             "id": 482533717,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-21T14:47:56Z",
+            "open_issues": 5,
             "owner": "soshishimada",
             "repo": "Neural_Physcap_Demo",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -208,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021 Best Paper Award Candidate] PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation, (Oral, Best Paper Award Finalist)",
+            "homepage": null,
             "id": 334972579,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-03T04:15:39Z",
+            "open_issues": 2,
             "owner": "jfzhang95",
             "repo": "PoseAug",
-            "stars": 383
+            "stars": 383,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -224,12 +317,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official project website for the CVPR 2020 paper (Oral Presentation) \"Cascaded deep monocular 3D human pose estimation wth evolutionary training data\"",
+            "homepage": "https://arxiv.org/abs/2006.07778",
             "id": 243695474,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-10T09:06:33Z",
+            "open_issues": 8,
             "owner": "Nicholasli1995",
             "repo": "EvoSkeleton",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "2d-to-3d",
+              "3d-computer-vision",
+              "3d-human-pose",
+              "3d-pose-estimation",
+              "annotaton-tool",
+              "bias-correction",
+              "cvpr",
+              "cvpr2020",
+              "data-augmentation",
+              "dataset",
+              "deep-learning",
+              "evolutionary-algorithms",
+              "feed-forward-neural-networks",
+              "generalization-on-diverse-scenes",
+              "geometric-deep-learning",
+              "human-pose-estimation",
+              "kinematic-trees",
+              "smpl",
+              "synthetic-data"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -240,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 246494004,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-10T12:29:38Z",
+            "open_issues": 4,
             "owner": "juyongchang",
             "repo": "PoseLifter",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -256,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"SRNet: Improving Generalization in 3D Human Pose Estimation with a Split-and-Recombine Approach\" ECCV'20",
+            "homepage": null,
             "id": 390212128,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-04T02:06:21Z",
+            "open_issues": 4,
             "owner": "ailingzengzzz",
             "repo": "Split-and-Recombine-Net",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -272,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation of the ICCV 2021 Paper \"Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows\" by Tom Wehrbein, Marco Rudolph, Bodo Rosenhahn and Bastian Wandt.",
+            "homepage": null,
             "id": 388761487,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-05T13:10:47Z",
+            "open_issues": 2,
             "owner": "twehrbein",
             "repo": "Probabilistic-Monocular-3D-Human-Pose-Estimation-with-Normalizing-Flows",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -288,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is an official PyTorch implementation of the paper \"Learnable Triangulation of Human Pose\" (ICCV 2019, oral). Proposed method archives state-of-the-art results in multi-view 3D human pose estimation!",
+            "homepage": null,
             "id": 186806035,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-03T21:34:46Z",
+            "open_issues": 35,
             "owner": "karfly",
             "repo": "learnable-triangulation-pytorch",
-            "stars": 1135
+            "stars": 1135,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -304,12 +442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Implementation for the paper \"High Fidelity 3D Reconstructions with Limited Physical Views\". 3DV 2021.",
+            "homepage": "http://mv-nrsfm.github.io/",
             "id": 326170905,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-04-12T07:00:21Z",
+            "open_issues": 0,
             "owner": "mosamdabhi",
             "repo": "neural-shape-prior",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -320,12 +463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the source code related to the paper Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation",
+            "homepage": null,
             "id": 250554811,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-28T08:24:28Z",
+            "open_issues": 2,
             "owner": "fabbrimatteo",
             "repo": "LoCO",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -336,12 +484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2020] SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation",
+            "homepage": null,
             "id": 280315462,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-23T13:11:41Z",
+            "open_issues": 17,
             "owner": "zju3dv",
             "repo": "SMAP",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -352,12 +505,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks",
+            "homepage": null,
             "id": 343463953,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-13T01:06:06Z",
+            "open_issues": 15,
             "owner": "3dpose",
             "repo": "3D-Multi-Person-Pose",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "3d-human-pose",
+              "3d-human-pose-estimation-absolute",
+              "3d-multi-person-pose-estimation",
+              "3d-pose-estimation",
+              "human-pose-estimation",
+              "multi-person-pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -368,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 279653800,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-07-06T22:13:38Z",
+            "open_issues": 6,
             "owner": "HeCraneChen",
             "repo": "3d-crowdpose-estimation-based-on-mvg",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -384,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo\"",
+            "homepage": null,
             "id": 352105515,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-07T06:23:24Z",
+            "open_issues": 16,
             "owner": "jiahaoLjh",
             "repo": "PlaneSweepPose",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -400,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS-2021: Direct Multi-view Multi-person 3D Human Pose Estimation",
+            "homepage": null,
             "id": 426080810,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-04T06:27:00Z",
+            "open_issues": 28,
             "owner": "sail-sg",
             "repo": "mvp",
-            "stars": 339
+            "stars": 339,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -416,12 +596,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views\" (CVPR 2019, T-PAMI 2021)",
+            "homepage": "https://zju3dv.github.io/mvpose/",
             "id": 165477360,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-30T12:06:35Z",
+            "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "cvpr"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -432,12 +619,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views\" (CVPR 2019, T-PAMI 2021)",
+            "homepage": "https://zju3dv.github.io/mvpose/",
             "id": 165477360,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2021-07-30T12:06:35Z",
+            "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "cvpr"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -448,12 +642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 278367666,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-17T14:29:00Z",
+            "open_issues": 6,
             "owner": "vegesm",
             "repo": "pose_refinement",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -464,12 +663,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 278367666,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-02-17T14:29:00Z",
+            "open_issues": 6,
             "owner": "vegesm",
             "repo": "pose_refinement",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -480,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The project is an official implementation of our paper \"3D Human Pose Estimation with Spatial and Temporal Transformers\".",
+            "homepage": null,
             "id": 348718235,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-09T15:05:02Z",
+            "open_issues": 25,
             "owner": "zczcwh",
             "repo": "PoseFormer",
-            "stars": 585
+            "stars": 585,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -496,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation",
+            "homepage": null,
             "id": 431340418,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-10T01:36:10Z",
+            "open_issues": 14,
             "owner": "Vegetebird",
             "repo": "MHFormer",
-            "stars": 612
+            "stars": 612,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -512,12 +726,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (GAST-Net)",
+            "homepage": null,
             "id": 277526922,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-17T05:08:24Z",
+            "open_issues": 26,
             "owner": "fabro66",
             "repo": "GAST-Net-3DPoseEstimation",
-            "stars": 326
+            "stars": 326,
+            "topics": [
+              "3d-pose-estimation-video",
+              "gast-net",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -528,12 +751,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of \"Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning\", ICCV 2021",
+            "homepage": null,
             "id": 389842243,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-08-04T18:38:13Z",
+            "open_issues": 0,
             "owner": "hanbyel0105",
             "repo": "CamDistHumanPose3D",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "3d-human-pose-estimation-absolute",
+              "3d-pose-estimation-video",
+              "3d-reconstruction",
+              "animation",
+              "computer-graphics",
+              "computer-vision",
+              "domain-adaptation",
+              "human-pose-estimation",
+              "metaverse",
+              "pose-estimation",
+              "pytorch",
+              "virtual-humans"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -544,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The project is an official implementation of our CVPR2020 paper \"Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction\" ",
+            "homepage": "https://sites.google.com/a/udayton.edu/jshen1/cvpr2020",
             "id": 250692051,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-21T01:38:37Z",
+            "open_issues": 11,
             "owner": "lrxjason",
             "repo": "Attention3DHumanPose",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -560,12 +806,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of AAAI2021 paper: Invariant Teacher and Equivariant Student for Unsupervised 3D Human Pose Estimation",
+            "homepage": null,
             "id": 319879363,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T08:24:26Z",
+            "open_issues": 1,
             "owner": "sjtuxcx",
             "repo": "ITES",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -576,12 +827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 279578243,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-19T07:19:54Z",
+            "open_issues": 1,
             "owner": "NIEQiang001",
             "repo": "unsupervised-human-pose",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -592,12 +848,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A real-time method that estimates the 3D human pose directly in the popular Bio Vision Hierarchy (BVH) format, given estimations of the 2D body joints originating from monocular color images. Our contributions include: (a) A novel and compact 2D pose NSRM representation. (b) A human body orientation classifier and an ensemble of orientation-tuned ",
+            "homepage": "https://www.youtube.com/watch?v=Jgz1MRq-I-k",
             "id": 195396337,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T20:33:03Z",
+            "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 949
+            "stars": 949,
+            "topics": [
+              "2d-to-3d",
+              "3d-animation",
+              "3d-pose-estimation",
+              "bvh",
+              "bvh-format",
+              "computer-vision",
+              "demo",
+              "ensemble",
+              "gesture-recognition",
+              "mocap",
+              "neural-network",
+              "pose-estimation",
+              "real-time",
+              "rgb-images",
+              "tensorflow",
+              "webcam"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -608,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 288499834,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-23T09:54:41Z",
+            "open_issues": 0,
             "owner": "naver",
             "repo": "dope",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -624,12 +907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation",
+            "homepage": null,
             "id": 282892377,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-18T07:08:59Z",
+            "open_issues": 4,
             "owner": "idiap",
             "repo": "residual_pose",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -640,12 +928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Residual Pose: A Decoupled Approach for Depth-based 3D Human Pose Estimation",
+            "homepage": null,
             "id": 282892377,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-18T07:08:59Z",
+            "open_issues": 4,
             "owner": "idiap",
             "repo": "residual_pose",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -662,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image",
+            "homepage": "https://smpl-x.is.tue.mpg.de/",
             "id": 191319653,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-23T12:10:19Z",
+            "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2167
+            "stars": 2167,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -678,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 145331030,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-23T13:36:50Z",
+            "open_issues": 14,
             "owner": "mohomran",
             "repo": "neural_body_fitting",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -694,12 +997,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A copy of the code repository for the paper: Appearance Consensus Driven Self-Supervised Human Mesh Recovery",
+            "homepage": "https://sites.google.com/view/ss-human-mesh",
             "id": 291510409,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-07T17:36:40Z",
+            "open_issues": 0,
             "owner": "rakmuga",
             "repo": "SS_Human_Mesh",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "human-pose-estimation",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -710,12 +1021,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the public repository for our accepted ICCV 2019 paper \"Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild\"",
+            "homepage": "https://penincillin.github.io/dct_iccv2019",
             "id": 202886127,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-20T04:34:14Z",
+            "open_issues": 0,
             "owner": "penincillin",
             "repo": "DCT_ICCV-2019",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -726,12 +1042,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2020] Full-Body Awareness from Partial Observations",
+            "homepage": "https://crockwell.github.io/partial_humans/",
             "id": 286266444,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-04T20:34:25Z",
+            "open_issues": 0,
             "owner": "crockwell",
             "repo": "partial_humans",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "computer-vision",
+              "human-pose-estimation",
+              "machine-learning",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -742,12 +1068,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch Implementation of \"Generative Approach for Probabilistic Human Mesh Recovery using Diffusion Models\", ICCV 2023 CV4Metaverse Workshop",
+            "homepage": null,
             "id": 674768701,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-03T07:25:58Z",
+            "open_issues": 2,
             "owner": "hanbyel0105",
             "repo": "Diff-HMR",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "3d-reconstruction",
+              "computer-graphics",
+              "computer-vision",
+              "diffusion",
+              "diffusion-model",
+              "diffusion-models",
+              "generative-ai",
+              "generative-model",
+              "generative-models",
+              "human-mesh-recovery",
+              "human-pose-estimation",
+              "metaverse",
+              "pose-estimation",
+              "virtual-humans",
+              "virtual-reality"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -758,12 +1105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parametric Shape Estimation of Human Body under Wide Clothing",
+            "homepage": null,
             "id": 243461107,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-03-04T07:23:17Z",
+            "open_issues": 2,
             "owner": "YCL92",
             "repo": "SHADER",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -774,12 +1126,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for the paper: Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild (ICCV 2021)",
+            "homepage": null,
             "id": 412932978,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-06T13:14:21Z",
+            "open_issues": 5,
             "owner": "akashsengupta1997",
             "repo": "HierarchicalProbabilistic3DHuman",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "human-pose",
+              "human-shape-recover",
+              "machine-learning",
+              "probabilistic-machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -790,12 +1154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project page for End-to-end Recovery of Human Shape and Pose",
+            "homepage": null,
             "id": 114591486,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-10T13:41:54Z",
+            "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1666
+            "stars": 1666,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -806,12 +1175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the paper \"Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop\"",
+            "homepage": null,
             "id": 211708700,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-12T22:28:36Z",
+            "open_issues": 51,
             "owner": "nkolot",
             "repo": "SPIN",
-            "stars": 892
+            "stars": 892,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -822,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the paper \" 3D Human Mesh Regression with Dense Correspondence \"",
+            "homepage": null,
             "id": 251010808,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-23T10:13:32Z",
+            "open_issues": 9,
             "owner": "zengwang430521",
             "repo": "DecoMR",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -838,12 +1217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of \"I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image\", ECCV 2020",
+            "homepage": null,
             "id": 279795687,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-10T03:28:20Z",
+            "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 738
+            "stars": 738,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -854,12 +1238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 283425019,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-29T08:27:29Z",
+            "open_issues": 0,
             "owner": "sunwonlikeyou",
             "repo": "MeshLifter",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -870,12 +1259,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of \"Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose\", ECCV 2020",
+            "homepage": null,
             "id": 280530941,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-09T19:37:08Z",
+            "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 724
+            "stars": 724,
+            "topics": [
+              "2d-human-pose",
+              "3d-human-mesh",
+              "3d-human-pose",
+              "3d-mesh",
+              "eccv",
+              "eccv2020",
+              "graph-convolutional-network",
+              "rgb-image",
+              "single-view"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -886,12 +1290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICCV19: Official code of Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation",
+            "homepage": null,
             "id": 208815511,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-27T09:42:43Z",
+            "open_issues": 7,
             "owner": "JDAI-CV",
             "repo": "DSD-SATN",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -902,12 +1311,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI 2020] Learning 3D Human Shape and Pose from Dense Body Parts",
+            "homepage": "https://hongwenzhang.github.io/DensePose2SMPL",
             "id": 216516618,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-06T21:20:55Z",
+            "open_issues": 4,
             "owner": "HongwenZhang",
             "repo": "DaNet-DensePose2SMPL",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "3d-human-reconstruction",
+              "3d-human-shape-and-pose-estimation",
+              "densepose-to-smpl",
+              "human-mesh-recovery",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -918,12 +1338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "visualization code for 3D human body annotation by EFT (Exemplar Fine-tuning)",
+            "homepage": null,
             "id": 274264099,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-16T09:57:12Z",
+            "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "eft",
-            "stars": 408
+            "stars": 408,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -934,12 +1359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code of \"HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation\", CVPR 2021",
+            "homepage": null,
             "id": 317186983,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-08T10:01:45Z",
+            "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1619
+            "stars": 1619,
+            "topics": [
+              "3d-pose-estimation",
+              "cvpr",
+              "cvpr21",
+              "inverse-kinematics",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -950,12 +1388,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021, Oral] PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop",
+            "homepage": "https://hongwenzhang.github.io/pymaf",
             "id": 351974521,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-29T02:28:42Z",
+            "open_issues": 15,
             "owner": "HongwenZhang",
             "repo": "PyMAF",
-            "stars": 655
+            "stars": 655,
+            "topics": [
+              "3d-human-pose",
+              "3d-human-shape-and-pose-estimation",
+              "human-mesh-recovery",
+              "human-model-reconstruction",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -966,12 +1415,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[IJCV 2021] SportsCap: Monocular 3D Human Motion Capture and Fine-grained Understanding in Challenging Sports Videos",
+            "homepage": "https://chenxin.tech/SportsCap.html",
             "id": 380897517,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-17T13:09:39Z",
+            "open_issues": 2,
             "owner": "ChenFengYe",
             "repo": "SportsCap",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "action-recognition",
+              "dataset",
+              "deep-learning",
+              "ijcv2021",
+              "motion-capture",
+              "motion-prior",
+              "sport",
+              "sports-analytics",
+              "sports-data"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -982,12 +1446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021 Oral] Reconstructing 3D Human Pose by Watching Humans in the Mirror",
+            "homepage": null,
             "id": 328993812,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-02-24T10:25:46Z",
+            "open_issues": 4,
             "owner": "zju3dv",
             "repo": "Mirrored-Human",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -998,12 +1467,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monocular, One-stage, Regression of Multiple 3D People and their 3D positions & trajectories in camera & global coordinates. ROMP[ICCV21], BEV[CVPR22], TRACE[CVPR2023]",
+            "homepage": "https://www.yusun.work/",
             "id": 289262638,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-14T06:04:07Z",
+            "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "3d-mesh-recovery",
+              "bottom-up",
+              "multi-person",
+              "multi-person-3d-mesh-recovery",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1014,12 +1496,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for the paper: \"Coherent Reconstruction of Multiple Humans from a Single Image\" in CVPR'20",
+            "homepage": "https://jiangwenpl.github.io/multiperson/",
             "id": 251200185,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-27T18:02:33Z",
+            "open_issues": 9,
             "owner": "JiangWenPL",
             "repo": "multiperson",
-            "stars": 392
+            "stars": 392,
+            "topics": [
+              "cvpr",
+              "cvpr2020",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1030,12 +1521,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of \"Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image\", ICCV 2019",
+            "homepage": null,
             "id": 198271320,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-10T03:27:51Z",
+            "open_issues": 41,
             "owner": "mks0601",
             "repo": "3DMPPE_POSENET_RELEASE",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "3d-human-pose",
+              "computer-vision",
+              "deep-learning",
+              "human-pose-estimation",
+              "iccv2019",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1046,12 +1549,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monocular, One-stage, Regression of Multiple 3D People and their 3D positions & trajectories in camera & global coordinates. ROMP[ICCV21], BEV[CVPR22], TRACE[CVPR2023]",
+            "homepage": "https://www.yusun.work/",
             "id": 289262638,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-14T06:04:07Z",
+            "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "3d-mesh-recovery",
+              "bottom-up",
+              "multi-person",
+              "multi-person-3d-mesh-recovery",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1062,12 +1578,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monocular, One-stage, Regression of Multiple 3D People and their 3D positions & trajectories in camera & global coordinates. ROMP[ICCV21], BEV[CVPR22], TRACE[CVPR2023]",
+            "homepage": "https://www.yusun.work/",
             "id": 289262638,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-14T06:04:07Z",
+            "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "3d-mesh-recovery",
+              "bottom-up",
+              "multi-person",
+              "multi-person-3d-mesh-recovery",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1078,12 +1607,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monocular, One-stage, Regression of Multiple 3D People and their 3D positions & trajectories in camera & global coordinates. ROMP[ICCV21], BEV[CVPR22], TRACE[CVPR2023]",
+            "homepage": "https://www.yusun.work/",
             "id": 289262638,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-14T06:04:07Z",
+            "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "3d-mesh-recovery",
+              "bottom-up",
+              "multi-person",
+              "multi-person-3d-mesh-recovery",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1094,12 +1636,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022 Oral] Official PyTorch Implementation of \"GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras”.",
+            "homepage": "https://nvlabs.github.io/GLAMR",
             "id": 473342441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-18T05:44:06Z",
+            "open_issues": 38,
             "owner": "NVlabs",
             "repo": "GLAMR",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "3d-reconstruction",
+              "cvpr2022",
+              "digital-human",
+              "human-mesh-recovery",
+              "human-pose-estimation",
+              "pose-tracking"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1110,12 +1664,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of the paper Scene-Aware 3D Multi-Human Motion Capture, EUROGRAPHICS 2023",
+            "homepage": "https://vcai.mpi-inf.mpg.de/projects/scene-aware-3d-multi-human/",
             "id": 585877498,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-02T15:50:09Z",
+            "open_issues": 6,
             "owner": "dluvizon",
             "repo": "scene-aware-3d-multi-human",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "deep-learning",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1126,12 +1688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Body Meshes as Points.",
+            "homepage": null,
             "id": 344114758,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-24T11:45:44Z",
+            "open_issues": 6,
             "owner": "jfzhang95",
             "repo": "BMP",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1142,12 +1709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 414225489,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-07T13:08:53Z",
+            "open_issues": 2,
             "owner": "zj-dong",
             "repo": "Multi-Person-Pose-Estimation",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1158,12 +1730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project for paper \"Learning 3D Human Dynamics from Video\"",
+            "homepage": null,
             "id": 160242048,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-11-21T21:13:57Z",
+            "open_issues": 10,
             "owner": "akanazawa",
             "repo": "human_dynamics",
-            "stars": 657
+            "stars": 657,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1174,12 +1751,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of CVPR2020 paper \"VIBE: Video Inference for Human Body Pose and Shape Estimation\"",
+            "homepage": "https://arxiv.org/abs/1912.05656",
             "id": 227483440,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-24T23:39:57Z",
+            "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3212
+            "stars": 3212,
+            "topics": [
+              "3d-human-pose",
+              "3d-pose-estimation",
+              "cvpr",
+              "cvpr-2020",
+              "cvpr20",
+              "cvpr2020",
+              "human-pose-estimation",
+              "pytorch",
+              "smpl",
+              "video-pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1190,12 +1783,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of ACCV 2020 paper \"3D Human Motion Estimation via Motion Compression and Refinement\" (Identical repo to https://github.com/KlabCMU/MEVA, will be kept in sync)",
+            "homepage": "https://zhengyiluo.github.io/projects/meva/",
             "id": 300747649,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-11T19:46:50Z",
+            "open_issues": 6,
             "owner": "ZhengyiLuo",
             "repo": "MEVA",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "3d-human-pose",
+              "3d-pose-estimation",
+              "accv2020",
+              "human-pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1206,12 +1811,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of \"Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video\", CVPR 2021",
+            "homepage": null,
             "id": 361599329,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-18T21:19:05Z",
+            "open_issues": 36,
             "owner": "hongsukchoi",
             "repo": "TCMR_RELEASE",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "3d-human-mesh",
+              "3d-human-motion",
+              "3d-human-shape-and-pose-estimation",
+              "cvpr2021",
+              "temporal",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1222,12 +1839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Research code for CVPR 2021 paper \"End-to-End Human Pose and Mesh Reconstruction with Transformers\"",
+            "homepage": "https://arxiv.org/abs/2012.09760",
             "id": 357447788,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T22:02:20Z",
+            "open_issues": 30,
             "owner": "microsoft",
             "repo": "MeshTransformer",
-            "stars": 646
+            "stars": 646,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1238,12 +1860,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'22] Official PyTorch Implementation of \"Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers\"",
+            "homepage": "https://fastmetro.github.io/",
             "id": 515150072,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-21T09:47:44Z",
+            "open_issues": 1,
             "owner": "kaist-ami",
             "repo": "FastMETRO",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1254,12 +1881,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of CVPR2022 paper \"Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video\"",
+            "homepage": null,
             "id": 513427095,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-09T11:45:58Z",
+            "open_issues": 9,
             "owner": "MPS-Net",
             "repo": "MPS-Net_release",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "3d-human-motion",
+              "3d-human-shape-and-pose-estimation",
+              "cvpr2022",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1270,12 +1907,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Bilevel Online Adaptation for Human Mesh Reconstruction",
+            "homepage": null,
             "id": 353066463,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-07T15:30:52Z",
+            "open_issues": 1,
             "owner": "syguan96",
             "repo": "BOA",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "human-pose-estimation",
+              "reconstruction",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1286,12 +1932,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[T-PAMI 2022] Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation",
+            "homepage": null,
             "id": 424988149,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-30T14:18:04Z",
+            "open_issues": 7,
             "owner": "syguan96",
             "repo": "DynaBOA",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "deep-learning",
+              "human-pose-estimation",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1302,12 +1959,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[T-PAMI 2022] Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation",
+            "homepage": null,
             "id": 424988149,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-30T14:18:04Z",
+            "open_issues": 7,
             "owner": "syguan96",
             "repo": "DynaBOA",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "deep-learning",
+              "human-pose-estimation",
+              "pose-estimation",
+              "pytorch",
+              "smpl"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1318,12 +1986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for \"Probabilistic Modeling for Human Mesh Recovery\"",
+            "homepage": null,
             "id": 399987812,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-14T23:03:46Z",
+            "open_issues": 20,
             "owner": "nkolot",
             "repo": "ProHMR",
-            "stars": 285
+            "stars": 285,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1334,12 +2007,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation",
+            "homepage": null,
             "id": 396107326,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-12T02:19:55Z",
+            "open_issues": 16,
             "owner": "ziniuwan",
             "repo": "maed",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "deep-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1350,12 +2031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR19 paper \"Monocular Total Capture: Posing Face, Body and Hands in the Wild\"",
+            "homepage": "http://domedb.perception.cs.cmu.edu/mtc.html",
             "id": 190938119,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-09-18T17:34:32Z",
+            "open_issues": 18,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "MonocularTotalCapture",
-            "stars": 676
+            "stars": 676,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1366,12 +2052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive Body Capture: 3D Hands, Face, and Body from a Single Image",
+            "homepage": "https://smpl-x.is.tue.mpg.de/",
             "id": 191319653,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-23T12:10:19Z",
+            "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2167
+            "stars": 2167,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1382,12 +2073,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator",
+            "homepage": null,
             "id": 285178905,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-21T20:42:18Z",
+            "open_issues": 30,
             "owner": "facebookresearch",
             "repo": "frankmocap",
-            "stars": 2294
+            "stars": 2294,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1398,12 +2094,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ExPose - EXpressive POse and Shape rEgression",
+            "homepage": null,
             "id": 289046126,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-12T12:41:40Z",
+            "open_issues": 48,
             "owner": "vchoutas",
             "repo": "expose",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "3d-pose-estimation",
+              "expressive-body-capture",
+              "human-pose-estimation",
+              "smpl",
+              "smplx"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1414,12 +2121,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Official implementation of the paper \"One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer\"",
+            "homepage": "https://osx-ubody.github.io/",
             "id": 620198494,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-26T07:47:17Z",
+            "open_issues": 32,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "3d-body-recovery",
+              "cvpr2023",
+              "human-pose-estimation",
+              "smpl-model",
+              "smplx",
+              "whole-body-pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1430,12 +2149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for our paper \"Binarized Dual Residual Network for 3D Whole-body Human Mesh Recovery\"",
+            "homepage": null,
             "id": 722550542,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-02T07:32:02Z",
+            "open_issues": 1,
             "owner": "ZHITENGLI",
             "repo": "BiDRN",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1446,12 +2170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A real-time motion capture system that estimates poses and global translations using only 6 inertial measurement units",
+            "homepage": "https://xinyu-yi.github.io/TransPose/",
             "id": 365294752,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-08T12:21:17Z",
+            "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 452
+            "stars": 452,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1462,12 +2191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A real-time system that captures physically correct human motion, joint torques, and ground reaction forces with only 6 inertial measurement units",
+            "homepage": "https://xinyu-yi.github.io/PIP/",
             "id": 469259696,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-08T12:22:16Z",
+            "open_issues": 12,
             "owner": "Xinyu-Yi",
             "repo": "PIP",
-            "stars": 363
+            "stars": 363,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -1484,12 +2218,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Performance Capture from Monocular Video in the Wild (3DV2021)",
+            "homepage": null,
             "id": 449694235,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-27T15:11:09Z",
+            "open_issues": 0,
             "owner": "MoyGcc",
             "repo": "hpcwild",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "3d-vision",
+              "3dv2021",
+              "computer-vision"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1500,12 +2243,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH 2022] TightCap: 3D Human Shape Capture with Clothing Tightness Field, a human reconstruction framework for  clothed avatars",
+            "homepage": "https://chenxin.tech/TightCap.html",
             "id": 277808021,
             "language": "ASP.NET",
+            "license": null,
             "last_commit": "2025-04-23T17:45:11Z",
+            "open_issues": 1,
             "owner": "ChenFengYe",
             "repo": "TightCap",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "3d-reconstruction",
+              "clothing",
+              "dataset",
+              "deep-learning",
+              "generative-adversarial-network",
+              "multi-view-stereo",
+              "performance-capture",
+              "siggraph2022"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1516,12 +2273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a pytorch implementation of \"SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video (CVPR 2022, Oral)\".",
+            "homepage": null,
             "id": 474694039,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-17T15:06:03Z",
+            "open_issues": 23,
             "owner": "jby1993",
             "repo": "SelfReconCode",
-            "stars": 415
+            "stars": 415,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1532,12 +2294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 467319995,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-10T08:01:34Z",
+            "open_issues": 17,
             "owner": "hzhao1997",
             "repo": "HF-Avatar",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1548,12 +2315,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code of [ECCV 2022] \"AvatarCap: Animatable Avatar Conditioned Monocular Human Volumetric Capture\"",
+            "homepage": "http://www.liuyebin.com/avatarcap/avatarcap.html",
             "id": 510626911,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-11T06:07:01Z",
+            "open_issues": 1,
             "owner": "lizhe00",
             "repo": "AvatarCap",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "3d-reconstruction",
+              "eccv2022"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1564,12 +2339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 546383341,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-24T23:13:01Z",
+            "open_issues": 11,
             "owner": "yfeng95",
             "repo": "SCARF",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1580,12 +2360,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OcclusionFusion: realtime dynamic 3D reconstruction based on single-view RGB-D",
+            "homepage": "https://wenbin-lin.github.io/OcclusionFusion/",
             "id": 469363695,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-11T18:17:49Z",
+            "open_issues": 12,
             "owner": "wenbin-lin",
             "repo": "OcclusionFusion",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "3d-reconstruction",
+              "cvpr2022",
+              "rgbd"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1596,12 +2385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 465366331,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-03-04T09:17:16Z",
+            "open_issues": 1,
             "owner": "zj-dong",
             "repo": "pina",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1612,12 +2406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic Surface Function Networks for Clothed Human Bodies",
+            "homepage": null,
             "id": 355551759,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-12T07:20:57Z",
+            "open_issues": 1,
             "owner": "andreiburov",
             "repo": "DSFN",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1628,12 +2427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code corresponding to the paper Learning to Reconstruct People in Clothing from a Single RGB Camera.",
+            "homepage": null,
             "id": 179462921,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-22T06:08:32Z",
+            "open_issues": 2,
             "owner": "thmoa",
             "repo": "octopus",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1644,12 +2448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code corresponding to the paper \"Tex2Shape: Detailed Full Human Body Geometry from a Single Image\"",
+            "homepage": null,
             "id": 198264968,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-09T17:44:31Z",
+            "open_issues": 1,
             "owner": "thmoa",
             "repo": "tex2shape",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1660,12 +2469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MGTnet: Image-Guided Human Reconstruction via Multi-Scale Graph Transformation Networks",
+            "homepage": null,
             "id": 366553833,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-16T14:07:59Z",
+            "open_issues": 1,
             "owner": "1020244018",
             "repo": "MGTnet",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1676,12 +2490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize 3DPeople Dataset",
+            "homepage": "https://cv.iri.upc-csic.es/",
             "id": 228898972,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-02-18T18:12:12Z",
+            "open_issues": 3,
             "owner": "albertpumarola",
             "repo": "3DPeople-Dataset",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1692,12 +2511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290333931,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-07T12:28:53Z",
+            "open_issues": 4,
             "owner": "garvita-tiwari",
             "repo": "sizer",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1708,12 +2532,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for the paper \"PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization\"",
+            "homepage": "https://shunsukesaito.github.io/PIFu/",
             "id": 186289660,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-24T17:55:31Z",
+            "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1817
+            "stars": 1817,
+            "topics": [
+              "3d-printing",
+              "3d-reconstruction",
+              "arvr",
+              "computer-graphics",
+              "fashion",
+              "geometry-processing",
+              "human",
+              "iccv2019",
+              "pifu",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1724,12 +2564,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "High-Resolution 3D Human Digitization from A Single Image.",
+            "homepage": null,
             "id": 206397095,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T14:38:14Z",
+            "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9737
+            "stars": 9737,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1740,12 +2585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is the official implementation of Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.",
+            "homepage": null,
             "id": 272286155,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-12-08T07:36:44Z",
+            "open_issues": 16,
             "owner": "simpleig",
             "repo": "Geo-PIFu",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1756,12 +2606,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a pytorch implementation of \"StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision\".",
+            "homepage": null,
             "id": 361094658,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-04-25T07:01:33Z",
+            "open_issues": 7,
             "owner": "CrisHY1995",
             "repo": "StereoPIFu_Code",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1772,12 +2627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains texture stitching code corresponding to the paper Detailed Human Avatars from Monocular Video.",
+            "homepage": null,
             "id": 181466035,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-22T22:16:55Z",
+            "open_issues": 2,
             "owner": "thmoa",
             "repo": "semantic_human_texture_stitching",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1788,12 +2648,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volumetric Human Teleportation (SIGGRAPH 2020 Real-Time Live) Monocular Real-Time Volumetric Performance Capture(ECCV 2020)",
+            "homepage": "https://project-splinter.github.io/",
             "id": 285776765,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-28T04:42:37Z",
+            "open_issues": 13,
             "owner": "Project-Splinter",
             "repo": "MonoPort",
-            "stars": 577
+            "stars": 577,
+            "topics": [
+              "3d-reconstruction",
+              "3d-vision",
+              "clothed-humans",
+              "deep-learning",
+              "eccv2020",
+              "machine-learning",
+              "monocular",
+              "performance-capture",
+              "pifu",
+              "pifuhd",
+              "pytorch",
+              "real-time",
+              "reconstruction",
+              "sdf",
+              "siggraph",
+              "teleportation",
+              "teleportvr",
+              "virtual-conference",
+              "virtual-reality",
+              "volumetric"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1804,12 +2690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implicit Feature Network (IF-Net) - Codebase",
+            "homepage": null,
             "id": 255140467,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-24T13:53:39Z",
+            "open_issues": 8,
             "owner": "jchibane",
             "repo": "if-net",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1820,12 +2711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for \"Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction, ECCV'20(Oral)\"\"",
+            "homepage": null,
             "id": 289299610,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-12T15:39:16Z",
+            "open_issues": 17,
             "owner": "bharat-b7",
             "repo": "IPNet",
-            "stars": 235
+            "stars": 235,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1836,12 +2732,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Fidelity Clothed Avatar Reconstruction from a Single Image (CVPR2023)",
+            "homepage": "https://tingtingliao.github.io/CAR/",
             "id": 608932426,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-06T11:21:34Z",
+            "open_issues": 8,
             "owner": "TingtingLiao",
             "repo": "CAR",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1852,12 +2753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for the paper SMPLicit: Topology-aware Generative Model for Clothed People (CVPR 2021)",
+            "homepage": "http://www.iri.upc.edu/people/ecorona/smplicit/",
             "id": 355960033,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-01T06:52:43Z",
+            "open_issues": 14,
             "owner": "enriccorona",
             "repo": "SMPLicit",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1868,12 +2774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for the paper \"SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks\"",
+            "homepage": "https://scanimate.is.tue.mpg.de/",
             "id": 378269724,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-31T08:15:59Z",
+            "open_issues": 8,
             "owner": "shunsukesaito",
             "repo": "SCANimate",
-            "stars": 283
+            "stars": 283,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1884,12 +2795,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'22] ICON: Implicit Clothed humans Obtained from Normals",
+            "homepage": "https://icon.is.tue.mpg.de",
             "id": 433191004,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-23T16:44:57Z",
+            "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1675
+            "stars": 1675,
+            "topics": [
+              "3d-reconstruction",
+              "animation",
+              "avatar-generator",
+              "cloth-simulation",
+              "computer-graphics",
+              "computer-vision",
+              "human-pose-estimation",
+              "implicit-functions",
+              "mesh-deformation",
+              "metaverse",
+              "normal-maps",
+              "pifu",
+              "pifuhd",
+              "pose-estimation",
+              "pytorch",
+              "smpl",
+              "smpl-body",
+              "smpl-model",
+              "smplx",
+              "virtual-humans"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1900,12 +2837,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration",
+            "homepage": "https://xiuyuliang.cn/econ",
             "id": 544399418,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-17T21:59:40Z",
+            "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1207
+            "stars": 1207,
+            "topics": [
+              "3d-reconstruction",
+              "avatar-generator",
+              "computer-graphics",
+              "computer-vision",
+              "digital-twins",
+              "metaverse",
+              "normal-maps",
+              "pifu",
+              "pifuhd",
+              "smpl-body",
+              "smplx",
+              "virtual-humans"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1916,12 +2871,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECCV2020 - Official code repository for the paper : Reconstructing NBA Players",
+            "homepage": null,
             "id": 290082945,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-23T20:37:25Z",
+            "open_issues": 4,
             "owner": "luyangzhu",
             "repo": "NBA-Players",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "3d-human-mesh",
+              "3d-human-pose",
+              "3d-human-reconstruction",
+              "eccv-2020",
+              "eccv2020"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -1938,12 +2904,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Inference code and trained models for \"Learning the Depths of Moving People by Watching Frozen People.\"",
+            "homepage": "https://google.github.io/mannequinchallenge",
             "id": 188450417,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-18T10:47:19Z",
+            "open_issues": 14,
             "owner": "google",
             "repo": "mannequinchallenge",
-            "stars": 491
+            "stars": 491,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1954,12 +2925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for iccv2019 paper \"A Neural Network for Detailed Human Depth Estimation from a Single Image\"",
+            "homepage": null,
             "id": 219900768,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-05-20T03:58:26Z",
+            "open_issues": 8,
             "owner": "sfu-gruvi-3dv",
             "repo": "deep_human",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1970,12 +2946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The demo code and other resources of the paper \"Self-Supervised Human Depth Estimation from Monocular Videos\"",
+            "homepage": null,
             "id": 259057266,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-06-16T05:47:13Z",
+            "open_issues": 2,
             "owner": "sfu-gruvi-3dv",
             "repo": "Self-Supervised-Human-Depth",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -1986,12 +2967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 343293650,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2023-07-28T14:38:18Z",
+            "open_issues": 4,
             "owner": "yasaminjafarian",
             "repo": "HDNet_TikTok",
-            "stars": 344
+            "stars": 344,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -2008,12 +2994,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single-Shot Motion Completion with Transformer",
+            "homepage": null,
             "id": 343262856,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-02T03:09:56Z",
+            "open_issues": 7,
             "owner": "FuxiCV",
             "repo": "SSMCT",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2024,12 +3015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an implementation of the CVPR'2021 paper \"Learning Compositional Representation for 4D Captures with Neural ODE\".",
+            "homepage": null,
             "id": 360006140,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-21T02:22:56Z",
+            "open_issues": 1,
             "owner": "BoyanJIANG",
             "repo": "4D-Compositional-Representation",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2040,12 +3036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ICCV 2019 Paper: \"Predicting 3D Human Dynamics from Video\"",
+            "homepage": "https://jasonyzhang.com/phd/",
             "id": 201716369,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-07-22T13:15:01Z",
+            "open_issues": 5,
             "owner": "jasonyzhang",
             "repo": "phd",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2056,12 +3057,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV-20] 3D human scene interaction dataset: https://people.eecs.berkeley.edu/~zhecao/hmp/index.html",
+            "homepage": null,
             "id": 271939874,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-08T02:07:10Z",
+            "open_issues": 9,
             "owner": "ZheC",
             "repo": "GTA-IM-Dataset",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "3d-human-pose",
+              "dataset",
+              "eccv-2020",
+              "human-scene-interaction",
+              "rgbd"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2072,12 +3084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 321232508,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-12T09:51:53Z",
+            "open_issues": 1,
             "owner": "adamlyu789",
             "repo": "AM-GAN",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2088,12 +3105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 277405199,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-15T04:33:45Z",
+            "open_issues": 13,
             "owner": "wei-mao-2019",
             "repo": "HisRepItself",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2104,12 +3126,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of MSR-GCN (ICCV2021 paper)",
+            "homepage": null,
             "id": 389295723,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-22T05:38:06Z",
+            "open_issues": 1,
             "owner": "Droliven",
             "repo": "MSRGCN",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "deep-learning",
+              "deterministic",
+              "discrete-cosine-transform",
+              "fourier-transform",
+              "frequency",
+              "gcn",
+              "human-motion-prediction",
+              "iccv2021",
+              "multiscale",
+              "pytorch",
+              "residuals"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2120,12 +3159,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stochastic Scene-Aware Motion Prediction https://samp.is.tue.mpg.de/",
+            "homepage": null,
             "id": 397351433,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-11-04T06:56:42Z",
+            "open_issues": 1,
             "owner": "mohamedhassanmus",
             "repo": "SAMP",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2136,12 +3180,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for: \"Skeleton-Graph: Long-Term 3D Motion Prediction From 2D Observations Using Deep Spatio-Temporal Graph CNNs\", ICCV2021 Workshops",
+            "homepage": null,
             "id": 408871764,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-18T14:47:28Z",
+            "open_issues": 6,
             "owner": "abduallahmohamed",
             "repo": "Skeleton-Graph",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "3d",
+              "3d-skeleton",
+              "gcnn",
+              "graph-convolutional-networks",
+              "graph-neural-networks",
+              "motion-prediction",
+              "pedestrian",
+              "skeleton-graph",
+              "spatio-temporal",
+              "spatio-temporal-graph",
+              "trajectory-forecasting",
+              "trajectory-prediction"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2152,12 +3214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pose Transformers (POTR)",
+            "homepage": null,
             "id": 395544125,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-28T15:38:14Z",
+            "open_issues": 3,
             "owner": "idiap",
             "repo": "potr",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2168,12 +3235,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV2023] Official PyTorch Implementation of \"BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction\". ICCV 2023",
+            "homepage": "https://barquerogerman.github.io/BeLFusion/",
             "id": 570130753,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-09T13:03:23Z",
+            "open_issues": 3,
             "owner": "BarqueroGerman",
             "repo": "BeLFusion",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "belfusion",
+              "ddim",
+              "ddpm",
+              "deep-learning",
+              "diffusion",
+              "generative-models",
+              "human-motion-generation",
+              "human-motion-prediction",
+              "iccv2023",
+              "latent-diffusion",
+              "ldm",
+              "motion-forecasting",
+              "motion-prediction",
+              "pose-forecasting",
+              "pose-prediction",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2184,12 +3273,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for the paper \"Tracking People with 3D Representations\". NeurIPS 2021",
+            "homepage": null,
             "id": 436172075,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-10T06:14:51Z",
+            "open_issues": 6,
             "owner": "brjathu",
             "repo": "T3DP",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2200,12 +3294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for the paper \"Tracking People by Predicting 3D Appearance, Location & Pose\". (CVPR 2022 Oral) ",
+            "homepage": null,
             "id": 462572762,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-07T16:55:02Z",
+            "open_issues": 29,
             "owner": "brjathu",
             "repo": "PHALP",
-            "stars": 348
+            "stars": 348,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2216,12 +3315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthesizing Long-Term 3D Human Motion and Interaction in 3D in CVPR2021",
+            "homepage": null,
             "id": 318996989,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-27T07:15:53Z",
+            "open_issues": 5,
             "owner": "jiashunwang",
             "repo": "Long-term-Motion-in-3D-Scenes",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2232,12 +3336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Author's implementation of Learning a Family of Motor Skills from a Single Motion Clip (SIGGRAPH 2021 Technical Paper)",
+            "homepage": null,
             "id": 397068131,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-25T13:39:43Z",
+            "open_issues": 4,
             "owner": "seyoulee",
             "repo": "ParameterizedMotion",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2248,12 +3357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 413486146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-17T12:59:52Z",
+            "open_issues": 1,
             "owner": "skelemoa",
             "repo": "mugl",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2264,12 +3378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Character Controllers using Motion VAEs",
+            "homepage": null,
             "id": 335132280,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-02-19T21:44:37Z",
+            "open_issues": 7,
             "owner": "electronicarts",
             "repo": "character-motion-vaes",
-            "stars": 323
+            "stars": 323,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2280,12 +3399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 350202888,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-26T11:07:03Z",
+            "open_issues": 3,
             "owner": "huiye-tech",
             "repo": "DanceFormer",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2296,12 +3420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR 2022 paper \"Bailando: 3D dance generation via Actor-Critic GPT with Choreographic Memory\"",
+            "homepage": null,
             "id": 472203444,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-07T16:37:46Z",
+            "open_issues": 38,
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 438
+            "stars": 438,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -2318,12 +3447,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild",
+            "homepage": null,
             "id": 283007100,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-19T19:06:29Z",
+            "open_issues": 1,
             "owner": "facebookresearch",
             "repo": "phosa",
-            "stars": 186
+            "stars": 186,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2334,12 +3468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resolving 3D Human Pose Ambiguities with 3D Scene Constraints  https://prox.is.tue.mpg.de",
+            "homepage": null,
             "id": 215149858,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-13T13:17:13Z",
+            "open_issues": 10,
             "owner": "mohamedhassanmus",
             "repo": "prox",
-            "stars": 231
+            "stars": 231,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2350,12 +3489,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GRAB: A Dataset of Whole-Body Human Grasping of Objects",
+            "homepage": "https://grab.is.tue.mpg.de",
             "id": 277552039,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-08T09:30:52Z",
+            "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "body-object-contact",
+              "contact",
+              "grab",
+              "grab-dataset",
+              "grasp",
+              "grasping",
+              "hand-object-interaction",
+              "human-motion",
+              "human-object-interaction",
+              "motion-tracking"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2366,12 +3521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code repository for ICCV 2021 paper: Gravity-Aware Monocular 3D Human Object Reconstruction",
+            "homepage": null,
             "id": 413721765,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-12T07:23:02Z",
+            "open_issues": 0,
             "owner": "rishabhdabral",
             "repo": "gravicap",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2382,12 +3542,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for the paper CHORE, ECCV'22",
+            "homepage": "https://virtualhumans.mpi-inf.mpg.de/chore/",
             "id": 509434514,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-13T20:22:37Z",
+            "open_issues": 1,
             "owner": "xiexh20",
             "repo": "CHORE",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "3d-reconstruction",
+              "human-object-interaction"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2398,12 +3566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the GCPR 2022 paper: <InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction>",
+            "homepage": null,
             "id": 534075950,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-27T21:04:28Z",
+            "open_issues": 6,
             "owner": "YinghaoHuang91",
             "repo": "InterCap",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2414,12 +3587,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to access BEHAVE dataset, CVPR'22",
+            "homepage": "https://virtualhumans.mpi-inf.mpg.de/behave/",
             "id": 472074012,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-16T22:01:14Z",
+            "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "3d-reconstruction",
+              "computer-vision",
+              "dataset",
+              "human-object-interaction"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2430,12 +3613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our CVPR'23 paper - \"FLEX: Full-Body Grasping Without Full-Body Grasps\"",
+            "homepage": "https://flex.cs.columbia.edu/",
             "id": 569032529,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-02T23:42:11Z",
+            "open_issues": 0,
             "owner": "purvaten",
             "repo": "FLEX",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "3d-human",
+              "computer-graphics",
+              "computer-vision",
+              "generative-ai",
+              "grasping",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2446,12 +3641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Populating 3D Scenes by Learning Human-Scene Interaction https://posa.is.tue.mpg.de/",
+            "homepage": null,
             "id": 363690898,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-13T13:19:44Z",
+            "open_issues": 10,
             "owner": "mohamedhassanmus",
             "repo": "POSA",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -2468,12 +3668,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for 3DV 2019 paper \"Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets\"",
+            "homepage": null,
             "id": 208523178,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-11-04T07:22:24Z",
+            "open_issues": 1,
             "owner": "zhan-xu",
             "repo": "AnimSkelVolNet",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2484,12 +3689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for SIGGRAPH 2020 paper \"RigNet: Neural Rigging for Articulated Characters\"",
+            "homepage": null,
             "id": 258279928,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-04T07:25:05Z",
+            "open_issues": 28,
             "owner": "zhan-xu",
             "repo": "RigNet",
-            "stars": 1520
+            "stars": 1520,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2500,12 +3710,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]",
+            "homepage": null,
             "id": 257169542,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-07-12T15:05:13Z",
+            "open_issues": 64,
             "owner": "DeepMotionEditing",
             "repo": "deep-motion-editing",
-            "stars": 1722
+            "stars": 1722,
+            "topics": [
+              "character-animation",
+              "computer-animation",
+              "computer-graphics",
+              "deep-learning",
+              "motion-retargeting",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2516,12 +3738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This codes implement the algoirhtm of Functionality-Driven Musculature Retargeting. You can get musculoskeletal model with simple user input.",
+            "homepage": null,
             "id": 289837018,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-30T05:58:45Z",
+            "open_issues": 2,
             "owner": "snumrl",
             "repo": "SkelGen",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2532,12 +3759,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An end-to-end library for automatic character rigging, skinning, and blend shapes generation, as well as a visualization tool [SIGGRAPH 2021]",
+            "homepage": null,
             "id": 364148685,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-22T14:19:43Z",
+            "open_issues": 20,
             "owner": "PeizhuoLi",
             "repo": "neural-blend-shapes",
-            "stars": 701
+            "stars": 701,
+            "topics": [
+              "character-animation",
+              "computer-animation",
+              "computer-graphics",
+              "deep-learning",
+              "rigging-framework"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -2554,12 +3792,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos ",
+            "homepage": "https://lingtengqiu.github.io/2023/REC-MV/",
             "id": 607496146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-13T16:24:09Z",
+            "open_issues": 11,
             "owner": "GAP-LAB-CUHK-SZ",
             "repo": "REC-MV",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "3d-models",
+              "3d-reconstruction",
+              "deep-learning",
+              "nerf-in-the-wild",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2570,12 +3819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021] Garment4D: Garment Reconstruction from Point Cloud Sequences",
+            "homepage": "https://hongfz16.github.io/projects/Garment4D.html",
             "id": 421492623,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-11T08:12:22Z",
+            "open_issues": 4,
             "owner": "hongfz16",
             "repo": "Garment4D",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2586,12 +3840,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our CVPR 2020 (ORAL) paper - TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.",
+            "homepage": "https://virtualhumans.mpi-inf.mpg.de/tailornet/",
             "id": 272443615,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-04T08:02:16Z",
+            "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "3d-computer-graphics",
+              "3d-computer-vision",
+              "3d-models",
+              "3d-reconstruction",
+              "3d-vision",
+              "clothing",
+              "garment",
+              "predict-garments"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2602,12 +3870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning-Based Animation of Clothing for Virtual Try-On",
+            "homepage": null,
             "id": 423130076,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-08T11:05:54Z",
+            "open_issues": 0,
             "owner": "isantesteban",
             "repo": "vto-learning-based-animation",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2618,12 +3891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 462740743,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-10T11:06:55Z",
+            "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2634,12 +3912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 424300397,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T06:33:46Z",
+            "open_issues": 3,
             "owner": "MengZephyr",
             "repo": "DynamicNeuralGarments",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2650,12 +3933,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 517090974,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-26T02:50:50Z",
+            "open_issues": 5,
             "owner": "MengZephyr",
             "repo": "Motion-Guided-Deep-Dynamic-3D-Garment",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2666,12 +3954,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The BCNet related data and inference model. ",
+            "homepage": null,
             "id": 279895421,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-30T15:15:49Z",
+            "open_issues": 8,
             "owner": "jby1993",
             "repo": "BCNet",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "smpl-pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2682,12 +3977,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] This repo is official PyTorch implementation of 3D Clothed Human Reconstruction in the Wild.",
+            "homepage": null,
             "id": 512954274,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-08T12:38:00Z",
+            "open_issues": 4,
             "owner": "hygenie1228",
             "repo": "ClothWild_RELEASE",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "3d-clothed-human-reconstruction",
+              "cloth-reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2698,12 +4001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"DIG: Draping Implicit Garment over the Human Body\", ACCV2022",
+            "homepage": null,
             "id": 539624658,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-06T09:11:39Z",
+            "open_issues": 1,
             "owner": "liren2515",
             "repo": "DIG",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2714,12 +4022,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The BCNet related data and inference model. ",
+            "homepage": null,
             "id": 279895421,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-30T15:15:49Z",
+            "open_issues": 8,
             "owner": "jby1993",
             "repo": "BCNet",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "smpl-pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2730,12 +4045,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for PERGAMO, a two step approach to learn deformable models",
+            "homepage": "http://mslab.es/projects/PERGAMO/",
             "id": 549494877,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-12T10:07:05Z",
+            "open_issues": 3,
             "owner": "AndresCasado",
             "repo": "pergamo",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "deformable-model",
+              "differentiable-rendering",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2746,12 +4072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 430210576,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-08T10:47:31Z",
+            "open_issues": 4,
             "owner": "isantesteban",
             "repo": "snug",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -2768,12 +4099,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of  Multi-view Neural Human Rendering.",
+            "homepage": null,
             "id": 253189208,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-03T20:02:42Z",
+            "open_issues": 0,
             "owner": "wuminye",
             "repo": "NHR",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2784,12 +4120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMPLpix: Neural Avatars from 3D Human Models",
+            "homepage": null,
             "id": 336277941,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-29T09:18:41Z",
+            "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2800,12 +4141,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds (CVPR 2023)",
+            "homepage": null,
             "id": 579066853,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-02T00:06:20Z",
+            "open_issues": 13,
             "owner": "tijiang13",
             "repo": "InstantAvatar",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "3d-human-reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2816,12 +4164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans\" CVPR 2021 best paper candidate",
+            "homepage": null,
             "id": 325798871,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T04:11:43Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 953
+            "stars": 953,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2832,12 +4185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs(Published in CVPR2022)",
+            "homepage": null,
             "id": 517642479,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-26T09:43:02Z",
+            "open_issues": 8,
             "owner": "zhaofuq",
             "repo": "HumanNeRF",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2848,12 +4206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Articulated Radiance Field",
+            "homepage": null,
             "id": 352954907,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-12T04:15:26Z",
+            "open_issues": 2,
             "owner": "nogu-atsu",
             "repo": "NARF",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2864,12 +4227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos\" TPAMI 2024, ICCV 2021",
+            "homepage": null,
             "id": 364952759,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T08:23:39Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2880,12 +4248,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] UV Volumes for Real-time Rendering of Editable Free-view Human Performance",
+            "homepage": "https://fanegg.github.io/UV-Volumes",
             "id": 474788985,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-06T12:34:46Z",
+            "open_issues": 7,
             "owner": "fanegg",
             "repo": "UV-Volumes",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "avatar",
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2896,12 +4272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of \"Rotationally-Temporally Consistent Novel View Synthesis of Human Performance Video\" (ECCV 2020 Spotlight)",
+            "homepage": null,
             "id": 281409354,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-18T02:42:51Z",
+            "open_issues": 2,
             "owner": "YoungJoongUNC",
             "repo": "human_video_novel_view_synthesis",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2912,12 +4293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of NeuMan: Neural Human Radiance Field from a Single Video (ECCV 2022)",
+            "homepage": null,
             "id": 516054113,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-23T14:27:10Z",
+            "open_issues": 55,
             "owner": "apple",
             "repo": "ml-neuman",
-            "stars": 1286
+            "stars": 1286,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2928,12 +4314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos\" TPAMI 2024, ICCV 2021",
+            "homepage": null,
             "id": 364952759,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T08:23:39Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2944,12 +4335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human Performance Modeling and Rendering via Neural Animated Mesh (Published in SIGGRAPH Asia 2022)",
+            "homepage": "https://zhaofuq.github.io/NeuralAM/",
             "id": 524871847,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-03-09T06:43:37Z",
+            "open_issues": 10,
             "owner": "zhaofuq",
             "repo": "Instant-NSR",
-            "stars": 391
+            "stars": 391,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -2966,12 +4362,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data preparation and loader for AMASS",
+            "homepage": "https://amass.is.tue.mpg.de/",
             "id": 201422255,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-25T11:10:05Z",
+            "open_issues": 42,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1010
+            "stars": 1010,
+            "topics": [
+              "action-recognition",
+              "human",
+              "motion",
+              "motion-capture",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2982,12 +4389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dataset for ECCV 2020 \"Motion Capture from Internet Videos\"",
+            "homepage": null,
             "id": 276892894,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-27T14:51:49Z",
+            "open_issues": 4,
             "owner": "zju3dv",
             "repo": "iMoCap",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -2998,12 +4410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize 3DPeople Dataset",
+            "homepage": "https://cv.iri.upc-csic.es/",
             "id": 228898972,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-02-18T18:12:12Z",
+            "open_issues": 3,
             "owner": "albertpumarola",
             "repo": "3DPeople-Dataset",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -3014,12 +4431,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2020] Full-Body Awareness from Partial Observations",
+            "homepage": "https://crockwell.github.io/partial_humans/",
             "id": 286266444,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-04T20:34:25Z",
+            "open_issues": 0,
             "owner": "crockwell",
             "repo": "partial_humans",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "computer-vision",
+              "human-pose-estimation",
+              "machine-learning",
+              "semi-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -3030,12 +4457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains official code (in MATLAB) for exploring and visualizing HUMBI dataset introduced in the paper \"HUMBI: A Large Multiview Dataset of Human Body Expressions\" (CVPR 2020).",
+            "homepage": null,
             "id": 272761944,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2022-03-11T00:55:34Z",
+            "open_issues": 7,
             "owner": "zhixuany",
             "repo": "HUMBI",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -3046,12 +4478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021 Oral] Reconstructing 3D Human Pose by Watching Humans in the Mirror",
+            "homepage": null,
             "id": 328993812,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2023-02-24T10:25:46Z",
+            "open_issues": 4,
             "owner": "zju3dv",
             "repo": "Mirrored-Human",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         },
@@ -3062,12 +4499,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code to access BEHAVE dataset, CVPR'22",
+            "homepage": "https://virtualhumans.mpi-inf.mpg.de/behave/",
             "id": 472074012,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-16T22:01:14Z",
+            "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "3d-reconstruction",
+              "computer-vision",
+              "dataset",
+              "human-object-interaction"
+            ]
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
         }
@@ -3076,15 +4523,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:21.585Z",
+    "last_updated": "2026-08-29T04:40:53.137Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎Awesome list of papers about 3D body",
+      "homepage": null,
       "id": 295191683,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-01T11:45:17Z",
+      "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 664
+      "stars": 664,
+      "topics": [
+        "3d-body",
+        "3d-pose",
+        "3d-pose-estimation",
+        "3d-pose-tracking",
+        "awesome",
+        "awesome-list",
+        "body-capture",
+        "body-tracking",
+        "motion-capture",
+        "performance-capture"
+      ]
     },
     "original_repository_sha": "caffe07fad1915bbff5d297be7dfa9dbaa3f50fc",
     "enhanced_repository": "enhansome/enhansome-3dbody-papers",
