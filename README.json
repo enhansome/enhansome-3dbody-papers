@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2687,
+            "stars": 2688,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2167,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -92,7 +92,7 @@
             "open_issues": 5,
             "owner": "ahmedosman",
             "repo": "SUPR",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38643,
+            "stars": 38650,
             "topics": [
               "ai",
               "machine-learning",
@@ -964,7 +964,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2167,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2167,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 452,
+            "stars": 453,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2200,7 +2200,7 @@
             "open_issues": 12,
             "owner": "Xinyu-Yi",
             "repo": "PIP",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:53.137Z",
+    "last_updated": "2026-08-29T22:49:19.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
