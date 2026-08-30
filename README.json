@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2688,
+            "stars": 2690,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2168,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38650,
+            "stars": 38655,
             "topics": [
               "ai",
               "machine-learning",
@@ -605,7 +605,7 @@
             "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "cvpr"
             ]
@@ -628,7 +628,7 @@
             "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "cvpr"
             ]
@@ -964,7 +964,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2168,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2168,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9737,
+            "stars": 9736,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4150,7 +4150,7 @@
             "open_issues": 13,
             "owner": "tijiang13",
             "repo": "InstantAvatar",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "3d-human-reconstruction"
             ]
@@ -4302,7 +4302,7 @@
             "open_issues": 55,
             "owner": "apple",
             "repo": "ml-neuman",
-            "stars": 1286,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:49:19.956Z",
+    "last_updated": "2026-08-30T22:57:04.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
