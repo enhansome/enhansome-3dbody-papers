@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2692,
+            "stars": 2693,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2170,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38661,
+            "stars": 38672,
             "topics": [
               "ai",
               "machine-learning",
@@ -964,7 +964,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2170,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1505,7 +1505,7 @@
             "open_issues": 9,
             "owner": "JiangWenPL",
             "repo": "multiperson",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "cvpr",
               "cvpr2020",
@@ -2061,7 +2061,7 @@
             "open_issues": 89,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2170,
+            "stars": 2169,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2082,7 +2082,7 @@
             "open_issues": 30,
             "owner": "facebookresearch",
             "repo": "frankmocap",
-            "stars": 2294,
+            "stars": 2295,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 453,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2200,7 +2200,7 @@
             "open_issues": 12,
             "owner": "Xinyu-Yi",
             "repo": "PIP",
-            "stars": 364,
+            "stars": 366,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:07:21.525Z",
+    "last_updated": "2026-09-01T22:51:03.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
