@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2695,
+            "stars": 2696,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T22:34:06Z",
+            "last_commit": "2026-09-03T08:28:07Z",
             "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38681,
+            "stars": 38689,
             "topics": [
               "ai",
               "machine-learning",
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -2804,7 +2804,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1675,
+            "stars": 1676,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3900,7 +3900,7 @@
             "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 238,
+            "stars": 239,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4081,7 +4081,7 @@
             "open_issues": 4,
             "owner": "isantesteban",
             "repo": "snug",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 42,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1010,
+            "stars": 1011,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:51:53.110Z",
+    "last_updated": "2026-09-03T22:51:03.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
