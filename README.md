@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,698 | 🐛 134 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,700 | 🐛 134 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,169 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,697 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-03
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,708 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-07
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -92,7 +92,7 @@
 
 [High Fidelity 3D Reconstructions with Limited Physical Views](https://arxiv.org/abs/2110.11599). 3DV, 2021. [\[Page\]](https://sites.google.com/view/high-fidelity-3d-neural-prior) [\[Code\]](https://github.com/mosamdabhi/neural-shape-prior) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-12
 
-[Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329). CVPR, 2020.  [\[Code\]](https://github.com/fabbrimatteo/LoCO) ⭐ 145 | 🐛 2 | 🌐 Python | 📅 2023-09-28
+[Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329). CVPR, 2020.  [\[Code\]](https://github.com/fabbrimatteo/LoCO) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2023-09-28
 
 [PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2101.02471). ArXiv, 2021.
 
@@ -252,7 +252,7 @@
 
 [Coherent Reconstruction of Multiple Humans from a Single Image](https://arxiv.org/pdf/2006.08586.pdf). CVPR, 2020. [\[Page\]](https://jiangwenpl.github.io/multiperson) [\[Code\]](https://github.com/JiangWenPL/multiperson) ⭐ 393 | 🐛 9 | 🌐 Python | 📅 2021-10-27
 
-[Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image](https://arxiv.org/abs/1907.11346). ICCV, 2019.  [\[Code\]](https://github.com/mks0601/3DMPPE_POSENET_RELEASE) ⭐ 865 | 🐛 41 | 🌐 Python | 📅 2024-07-10
+[Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image](https://arxiv.org/abs/1907.11346). ICCV, 2019.  [\[Code\]](https://github.com/mks0601/3DMPPE_POSENET_RELEASE) ⭐ 864 | 🐛 41 | 🌐 Python | 📅 2024-07-10
 
 [Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272). ArXiv, 2020.  [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,540 | 🐛 196 | 🌐 Python | 📅 2024-11-14
 
@@ -714,7 +714,7 @@
 
 [ANR: Articulated Neural Rendering for Virtual Avatars](https://arxiv.org/pdf/2012.12890.pdf). ArXiv, 2020. [\[Page\]](https://anr-avatars.github.io)
 
-[SMPLpix: Neural Avatars from 3D Human Models](https://arxiv.org/abs/2008.06872). WACV, 2020. [\[Page\]](https://sergeyprokudin.github.io/smplpix) [\[Code\]](https://github.com/sergeyprokudin/smplpix) ⭐ 456 | 🐛 1 | 🌐 Python | 📅 2024-07-29
+[SMPLpix: Neural Avatars from 3D Human Models](https://arxiv.org/abs/2008.06872). WACV, 2020. [\[Page\]](https://sergeyprokudin.github.io/smplpix) [\[Code\]](https://github.com/sergeyprokudin/smplpix) ⭐ 455 | 🐛 1 | 🌐 Python | 📅 2024-07-29
 
 [Vid2Actor: Free-viewpoint Animatable Person Synthesis from Video in the Wild](https://arxiv.org/abs/2012.12884). ArXiv, 2020. [\[Page\]](https://grail.cs.washington.edu/projects/vid2actor)
 
@@ -772,7 +772,7 @@
 
 [3DPW: Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf). ECCV, 2018. [\[Page\]](http://virtualhumans.mpi-inf.mpg.de/3DPW)
 
-[AMASS: Archive of Motion Capture as Surface Shapes](https://arxiv.org/abs/1904.03278). ICCV, 2019. [\[Page\]](https://amass.is.tue.mpg.de) [\[Code\]](https://github.com/nghorbani/amass) ⭐ 1,011 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2024-07-25
+[AMASS: Archive of Motion Capture as Surface Shapes](https://arxiv.org/abs/1904.03278). ICCV, 2019. [\[Page\]](https://amass.is.tue.mpg.de) [\[Code\]](https://github.com/nghorbani/amass) ⭐ 1,012 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2024-07-25
 
 [3DBodyTex: Textured 3D Body Dataset](https://orbilu.uni.lu/bitstream/10993/36414/1/saint_et_al-3dbodytex-3dv_2018.pdf). 3DV, 2018. [\[Page\]](https://cvi2.uni.lu/datasets)
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

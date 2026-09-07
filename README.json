@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2698,
+            "stars": 2700,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T08:28:07Z",
+            "last_commit": "2026-09-07T16:12:34Z",
             "open_issues": 1990,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38697,
+            "stars": 38708,
             "topics": [
               "ai",
               "machine-learning",
@@ -472,7 +472,7 @@
             "open_issues": 2,
             "owner": "fabbrimatteo",
             "repo": "LoCO",
-            "stars": 145,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1530,7 +1530,7 @@
             "open_issues": 41,
             "owner": "mks0601",
             "repo": "3DMPPE_POSENET_RELEASE",
-            "stars": 865,
+            "stars": 864,
             "topics": [
               "3d-human-pose",
               "computer-vision",
@@ -4129,7 +4129,7 @@
             "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 456,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 42,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1011,
+            "stars": 1012,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:26:31.267Z",
+    "last_updated": "2026-09-07T23:01:49.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
