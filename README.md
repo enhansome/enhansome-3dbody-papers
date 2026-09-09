@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,713 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-08
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,719 | 🐛 1,990 | 🌐 Jupyter Notebook | 📅 2026-09-09
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -122,7 +122,7 @@
 
 [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/abs/2103.10455). ArXiv, 2021.  [\[Code\]](https://github.com/zczcwh/PoseFormer) ⭐ 585 | 🐛 25 | 🌐 Python | 📅 2023-11-09
 
-[MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation](https://arxiv.org/abs/2111.12707). ArXiv, 2021.  [\[Code\]](https://github.com/Vegetebird/MHFormer) ⭐ 613 | 🐛 14 | 🌐 Python | 📅 2024-04-10
+[MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation](https://arxiv.org/abs/2111.12707). ArXiv, 2021.  [\[Code\]](https://github.com/Vegetebird/MHFormer) ⭐ 612 | 🐛 14 | 🌐 Python | 📅 2024-04-10
 
 [Skeletor: Skeletal Transformers for Robust Body-Pose Estimation](https://arxiv.org/abs/2104.11712). ArXiv, 2021.
 
@@ -270,7 +270,7 @@
 
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [\[Page\]](https://akanazawa.github.io/human_dynamics) [\[Code\]](https://github.com/akanazawa/human_dynamics) ⭐ 657 | 🐛 10 | 🌐 Python | 📅 2022-11-21
 
-[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [\[Code\]](https://github.com/mkocabas/VIBE) ⭐ 3,210 | 🐛 126 | 🌐 Python | 📅 2023-03-24
+[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [\[Code\]](https://github.com/mkocabas/VIBE) ⭐ 3,209 | 🐛 126 | 🌐 Python | 📅 2023-03-24
 
 [3D Human Motion Estimation via Motion Compression and Refinement](https://arxiv.org/abs/2008.03789). ACCV (Oral), 2020. [\[Page\]](https://zhengyiluo.github.io/projects/meva) [\[Code\]](https://github.com/ZhengyiLuo/MEVA) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2022-01-11
 
@@ -300,13 +300,13 @@
 
 [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449). CVPR, 2021. [\[Page\]](https://sites.google.com/view/humanmeshboa) [\[Code\]](https://github.com/syguan96/BOA) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2021-11-07
 
-[Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017). TPAMI, 2022. [\[Page\]](https://sites.google.com/view/dynaboa) [\[Code\]](https://github.com/syguan96/DynaBOA) ⭐ 228 | 🐛 7 | 🌐 Python | 📅 2024-08-30
+[Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017). TPAMI, 2022. [\[Page\]](https://sites.google.com/view/dynaboa) [\[Code\]](https://github.com/syguan96/DynaBOA) ⭐ 227 | 🐛 7 | 🌐 Python | 📅 2024-08-30
 
-[Out-of-Domain Human Mesh Reconstruction via Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017). CVPR, 2021. [\[Page\]](https://sites.google.com/view/dynaboa) [\[Code\]](https://github.com/syguan96/DynaBOA) ⭐ 228 | 🐛 7 | 🌐 Python | 📅 2024-08-30
+[Out-of-Domain Human Mesh Reconstruction via Bilevel Online Adaptation](https://arxiv.org/abs/2111.04017). CVPR, 2021. [\[Page\]](https://sites.google.com/view/dynaboa) [\[Code\]](https://github.com/syguan96/DynaBOA) ⭐ 227 | 🐛 7 | 🌐 Python | 📅 2024-08-30
 
 [Learning Local Recurrent Models for Human Mesh Recovery](https://arxiv.org/abs/2107.12847). ArXiv, 2021.
 
-[Probabilistic Modeling for Human Mesh Recovery](https://arxiv.org/abs/2108.11944). ICCV, 2021. [\[Page\]](https://www.seas.upenn.edu/~nkolot/projects/prohmr/) [\[Code\]](https://github.com/nkolot/ProHMR) ⭐ 285 | 🐛 20 | 🌐 Python | 📅 2023-04-14
+[Probabilistic Modeling for Human Mesh Recovery](https://arxiv.org/abs/2108.11944). ICCV, 2021. [\[Page\]](https://www.seas.upenn.edu/~nkolot/projects/prohmr/) [\[Code\]](https://github.com/nkolot/ProHMR) ⭐ 286 | 🐛 20 | 🌐 Python | 📅 2023-04-14
 
 [Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303). ICCV, 2021.  [\[Code\]](https://github.com/ziniuwan/maed) ⭐ 209 | 🐛 16 | 🌐 Python | 📅 2022-03-12
 
@@ -328,7 +328,7 @@
 
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [\[Page\]](https://pixie.is.tue.mpg.de)
 
-[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 794 | 🐛 32 | 🌐 Python | 📅 2024-08-26
+[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 793 | 🐛 32 | 🌐 Python | 📅 2024-08-26
 
 [Binarized 3D Whole-body Human Mesh Recovery](https://arxiv.org/abs/2311.14323). ArXiv, 2023.  [\[Code\]](https://github.com/ZHITENGLI/BiDRN) ⭐ 15 | 🐛 1 | 📅 2023-12-02
 
@@ -578,7 +578,7 @@
 
 [Rhythm is a Dancer: Music-Driven Motion Synthesis with Global Structure](https://arxiv.org/abs/2111.12159). ArXiv, 2021.
 
-[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 438 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 439 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 ## Human-Object Interaction
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
