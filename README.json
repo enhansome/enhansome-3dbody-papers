@@ -19,7 +19,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2702,
+            "stars": 2705,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:18:29Z",
-            "open_issues": 1990,
+            "last_commit": "2026-09-10T00:21:25Z",
+            "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38719,
+            "stars": 38724,
             "topics": [
               "ai",
               "machine-learning",
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1667,
+            "stars": 1668,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1645,7 +1645,7 @@
             "open_issues": 38,
             "owner": "NVlabs",
             "repo": "GLAMR",
-            "stars": 389,
+            "stars": 390,
             "topics": [
               "3d-reconstruction",
               "cvpr2022",
@@ -1995,7 +1995,7 @@
             "open_issues": 20,
             "owner": "nkolot",
             "repo": "ProHMR",
-            "stars": 286,
+            "stars": 287,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2804,7 +2804,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3719,7 +3719,7 @@
             "open_issues": 64,
             "owner": "DeepMotionEditing",
             "repo": "deep-motion-editing",
-            "stars": 1721,
+            "stars": 1722,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T22:47:21.763Z",
+    "last_updated": "2026-09-10T22:48:20.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
