@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-08-12T05:09:47Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2705,
+            "stars": 2706,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1992,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38724,
+            "stars": 38737,
             "topics": [
               "ai",
               "machine-learning",
@@ -605,7 +605,7 @@
             "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "cvpr"
             ]
@@ -628,7 +628,7 @@
             "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 535,
+            "stars": 536,
             "topics": [
               "cvpr"
             ]
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 951,
+            "stars": 952,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1620,
+            "stars": 1621,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1455,7 +1455,7 @@
             "open_issues": 4,
             "owner": "zju3dv",
             "repo": "Mirrored-Human",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1540,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1540,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1540,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1540,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -2103,7 +2103,7 @@
             "open_issues": 48,
             "owner": "vchoutas",
             "repo": "expose",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "3d-pose-estimation",
               "expressive-body-capture",
@@ -2130,7 +2130,7 @@
             "open_issues": 32,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -4173,7 +4173,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 952,
+            "stars": 953,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4298,9 +4298,9 @@
             "id": 516054113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2023-05-23T14:27:10Z",
+            "last_commit": "2026-09-11T16:03:24Z",
             "open_issues": 55,
-            "owner": "apple",
+            "owner": "apple-aiml-research",
             "repo": "ml-neuman",
             "stars": 1287,
             "topics": []
@@ -4398,7 +4398,7 @@
             "open_issues": 4,
             "owner": "zju3dv",
             "repo": "iMoCap",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4487,7 +4487,7 @@
             "open_issues": 4,
             "owner": "zju3dv",
             "repo": "Mirrored-Human",
-            "stars": 191,
+            "stars": 192,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:48:20.130Z",
+    "last_updated": "2026-09-11T22:49:39.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
