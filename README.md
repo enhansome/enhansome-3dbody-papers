@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,740 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,750 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -150,7 +150,7 @@
 
 [Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture](https://arxiv.org/abs/2203.14065). CVPR, 2022. [\[Page\]](https://www.yangangwang.com/papers/HBZ-NM-2022-03.html)
 
-[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MocapNET) ⭐ 952 | 🐛 21 | 🌐 C++ | 📅 2026-08-13
+[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MocapNET) ⭐ 951 | 🐛 21 | 🌐 C++ | 📅 2026-08-13
 
 [DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild](https://arxiv.org/abs/2008.09457). ECCV, 2020.  [\[Code\]](https://github.com/naver/dope) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2020-11-23
 
@@ -612,7 +612,7 @@
 
 [Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets](http://people.cs.umass.edu/~zhanxu/papers/AnimSkelVolNet.pdf). 3DV (Oral), 2019. [\[Page\]](https://people.cs.umass.edu/~zhanxu/projects/AnimSkelVolNet/) [\[Code\]](https://github.com/zhan-xu/AnimSkelVolNet) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2024-11-04
 
-[RigNet: Neural Rigging for Articulated Characters](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf). SIGGRAPH, 2020. [\[Page\]](https://zhan-xu.github.io/rig-net) [\[Code\]](https://github.com/zhan-xu/RigNet) ⭐ 1,521 | 🐛 28 | 🌐 Python | 📅 2024-11-04
+[RigNet: Neural Rigging for Articulated Characters](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf). SIGGRAPH, 2020. [\[Page\]](https://zhan-xu.github.io/rig-net) [\[Code\]](https://github.com/zhan-xu/RigNet) ⭐ 1,520 | 🐛 28 | 🌐 Python | 📅 2024-11-04
 
 [HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction](https://arxiv.org/abs/2103.10602). I3D, 2021.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
