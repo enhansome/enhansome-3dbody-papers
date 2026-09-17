@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2707,
+            "stars": 2710,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1994,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38776,
+            "stars": 38785,
             "topics": [
               "ai",
               "machine-learning",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3209,
+            "stars": 3210,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3768,7 +3768,7 @@
             "open_issues": 20,
             "owner": "PeizhuoLi",
             "repo": "neural-blend-shapes",
-            "stars": 701,
+            "stars": 702,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -4367,8 +4367,8 @@
             "id": 201422255,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2024-07-25T11:10:05Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-17T12:37:29Z",
+            "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
             "stars": 1012,
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:17:14.335Z",
+    "last_updated": "2026-09-17T23:08:45.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
