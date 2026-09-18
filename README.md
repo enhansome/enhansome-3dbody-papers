@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,710 | 🐛 135 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,711 | 🐛 135 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,169 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,785 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,788 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -270,7 +270,7 @@
 
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [\[Page\]](https://akanazawa.github.io/human_dynamics) [\[Code\]](https://github.com/akanazawa/human_dynamics) ⭐ 657 | 🐛 10 | 🌐 Python | 📅 2022-11-21
 
-[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [\[Code\]](https://github.com/mkocabas/VIBE) ⭐ 3,210 | 🐛 126 | 🌐 Python | 📅 2023-03-24
+[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [\[Code\]](https://github.com/mkocabas/VIBE) ⭐ 3,209 | 🐛 126 | 🌐 Python | 📅 2023-03-24
 
 [3D Human Motion Estimation via Motion Compression and Refinement](https://arxiv.org/abs/2008.03789). ACCV (Oral), 2020. [\[Page\]](https://zhengyiluo.github.io/projects/meva) [\[Code\]](https://github.com/ZhengyiLuo/MEVA) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2022-01-11
 
@@ -318,7 +318,7 @@
 
 [FrankMocap: A Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration](https://arxiv.org/pdf/2008.08324.pdf). ArXiv, 2020. [\[Page\]](https://penincillin.github.io/frank_mocap) [\[Code\]](https://github.com/facebookresearch/frankmocap) ⚠️ Archived
 
-[Monocular Expressive Body Regression through Body-Driven Attention](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/620/0983.pdf). ECCV, 2020. [\[Page\]](https://expose.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 671 | 🐛 48 | 🌐 Python | 📅 2022-09-12
+[Monocular Expressive Body Regression through Body-Driven Attention](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/620/0983.pdf). ECCV, 2020. [\[Page\]](https://expose.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/expose) ⭐ 672 | 🐛 48 | 🌐 Python | 📅 2022-09-12
 
 [NeuralAnnot: Neural Annotator for in-the-wild Expressive 3D Human Pose and Mesh Training Sets](https://arxiv.org/abs/2011.11232). ArXiv, 2020. [\[Page\]](https://mks0601.github.io)
 
@@ -466,7 +466,7 @@
 
 [ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [\[Page\]](https://icon.is.tue.mpg.de/) [\[Code\]](https://github.com/YuliangXiu/ICON) ⭐ 1,679 | 🐛 52 | 🌐 Python | 📅 2023-11-23
 
-[ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/abs/2212.07422). CVPR, 2023. [\[Page\]](https://xiuyuliang.cn/econ/) [\[Code\]](https://github.com/YuliangXiu/ECON) ⭐ 1,209 | 🐛 41 | 🌐 Python | 📅 2024-09-17
+[ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/abs/2212.07422). CVPR, 2023. [\[Page\]](https://xiuyuliang.cn/econ/) [\[Code\]](https://github.com/YuliangXiu/ECON) ⭐ 1,210 | 🐛 41 | 🌐 Python | 📅 2024-09-17
 
 [Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing](https://arxiv.org/abs/2108.08807). ICCV, 2021. [\[Page\]](https://virtualhumans.mpi-inf.mpg.de/neuralgif)
 
@@ -590,7 +590,7 @@
 
 [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [\[Page\]](http://4dqv.mpi-inf.mpg.de/GraviCap/) [\[Code\]](https://github.com/rishabhdabral/gravicap) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2021-10-12
 
-[CHORE: Contact, Human and Object REconstruction from a single RGB image](https://arxiv.org/abs/2204.02445). ECCV, 2022. [\[Page\]](https://virtualhumans.mpi-inf.mpg.de/chore/) [\[Code\]](https://github.com/xiexh20/CHORE) ⭐ 97 | 🐛 1 | 🌐 Python | 📅 2024-11-13
+[CHORE: Contact, Human and Object REconstruction from a single RGB image](https://arxiv.org/abs/2204.02445). ECCV, 2022. [\[Page\]](https://virtualhumans.mpi-inf.mpg.de/chore/) [\[Code\]](https://github.com/xiexh20/CHORE) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2024-11-13
 
 [InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction](https://arxiv.org/abs/2209.12354). GCPR, 2022. [\[Page\]](https://intercap.is.tue.mpg.de/) [\[Code\]](https://github.com/YinghaoHuang91/InterCap) ⭐ 53 | 🐛 6 | 📅 2024-04-27
 
@@ -766,7 +766,7 @@
 
 [DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798). CVPR, 2022. [\[Page\]](http://www.liuyebin.com/dbfield/dbfield.html)
 
-[Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [\[Page\]](https://zhaofuq.github.io/NeuralAM/) [\[Code\]](https://github.com/zhaofuq/Instant-NSR) ⭐ 391 | 🐛 10 | 🌐 C++ | 📅 2023-03-09
+[Human Performance Modeling and Rendering via Neural Animated Mesh](https://arxiv.org/abs/2209.08468). SIGGRAPH Asia, 2022. [\[Page\]](https://zhaofuq.github.io/NeuralAM/) [\[Code\]](https://github.com/zhaofuq/Instant-NSR) ⭐ 392 | 🐛 10 | 🌐 C++ | 📅 2023-03-09
 
 ## Dataset
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
