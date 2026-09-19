@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2711,
+            "stars": 2713,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -131,10 +131,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T19:46:42Z",
-            "open_issues": 1994,
+            "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38788,
+            "stars": 38795,
             "topics": [
               "ai",
               "machine-learning",
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 950,
+            "stars": 951,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1667,
+            "stars": 1666,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1268,7 +1268,7 @@
             "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 725,
+            "stars": 724,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -2103,7 +2103,7 @@
             "open_issues": 48,
             "owner": "vchoutas",
             "repo": "expose",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "3d-pose-estimation",
               "expressive-body-capture",
@@ -2369,7 +2369,7 @@
             "open_issues": 12,
             "owner": "wenbin-lin",
             "repo": "OcclusionFusion",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "3d-reconstruction",
               "cvpr2022",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:51:19.497Z",
+    "last_updated": "2026-09-19T22:31:13.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
