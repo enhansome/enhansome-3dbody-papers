@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T19:46:42Z",
+            "last_commit": "2026-09-21T21:46:37Z",
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38806,
+            "stars": 38807,
             "topics": [
               "ai",
               "machine-learning",
@@ -2130,7 +2130,7 @@
             "open_issues": 33,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "body-object-contact",
               "contact",
@@ -4081,7 +4081,7 @@
             "open_issues": 4,
             "owner": "isantesteban",
             "repo": "snug",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:43:56.336Z",
+    "last_updated": "2026-09-21T23:41:13.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
@@ -4535,7 +4535,7 @@
       "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 664,
+      "stars": 665,
       "topics": [
         "3d-body",
         "3d-pose",

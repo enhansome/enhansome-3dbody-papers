@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,806 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-16
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,807 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-21
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -328,7 +328,7 @@
 
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [\[Page\]](https://pixie.is.tue.mpg.de)
 
-[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 794 | 🐛 33 | 🌐 Python | 📅 2024-08-26
+[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 795 | 🐛 33 | 🌐 Python | 📅 2024-08-26
 
 [Binarized 3D Whole-body Human Mesh Recovery](https://arxiv.org/abs/2311.14323). ArXiv, 2023.  [\[Code\]](https://github.com/ZHITENGLI/BiDRN) ⭐ 15 | 🐛 1 | 📅 2023-12-02
 
@@ -586,7 +586,7 @@
 
 [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 231 | 🐛 10 | 🌐 Python | 📅 2021-07-13
 
-[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 393 | 🐛 10 | 🌐 Python | 📅 2022-03-08
+[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 394 | 🐛 10 | 🌐 Python | 📅 2022-03-08
 
 [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [\[Page\]](http://4dqv.mpi-inf.mpg.de/GraviCap/) [\[Code\]](https://github.com/rishabhdabral/gravicap) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2021-10-12
 
@@ -696,7 +696,7 @@
 
 [ULNeF: Untangled Layered Neural Fields for Mix-and-Match Virtual Try-On](https://mslab.es/projects/ULNeF/contents/santesteban_NeurIPS2022.pdf). NeurIPS, 2022. [\[Page\]](https://mslab.es/projects/ULNeF/)
 
-[SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219). CVPR (Oral), 2020. [\[Page\]](http://mslab.es/projects/SNUG/) [\[Code\]](https://github.com/isantesteban/snug) ⭐ 203 | 🐛 4 | 🌐 Python | 📅 2022-06-08
+[SNUG: Self-Supervised Neural Dynamic Garments](https://arxiv.org/abs/2204.02219). CVPR (Oral), 2020. [\[Page\]](http://mslab.es/projects/SNUG/) [\[Code\]](https://github.com/isantesteban/snug) ⭐ 204 | 🐛 4 | 🌐 Python | 📅 2022-06-08
 
 [Neural 3D Clothes Retargeting from a Single Image](https://arxiv.org/abs/2102.00062). ArXiv, 2021.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
