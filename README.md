@@ -30,7 +30,7 @@
 
 [SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,714 | 🐛 135 | 🌐 Python | 📅 2024-08-12
 
-[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,169 | 🐛 88 | 🌐 Python | 📅 2024-02-23
+[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,170 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
 [SoftSMPL: Data-driven Modeling of Nonlinear Soft-tissue Dynamics for Parametric Humans](https://arxiv.org/pdf/2004.00326). Eurographics, 2020. [\[Page\]](http://dancasas.github.io/projects/SoftSMPL)
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,807 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-21
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,814 | 🐛 1,995 | 🌐 Jupyter Notebook | 📅 2026-09-21
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -150,7 +150,7 @@
 
 [Neural MoCon: Neural Motion Control for Physically Plausible Human Motion Capture](https://arxiv.org/abs/2203.14065). CVPR, 2022. [\[Page\]](https://www.yangangwang.com/papers/HBZ-NM-2022-03.html)
 
-[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MocapNET) ⭐ 951 | 🐛 21 | 🌐 C++ | 📅 2026-08-13
+[MocapNET: Ensemble of SNN Encoders for 3D Human Pose Estimation in RGB Images](http://users.ics.forth.gr/~argyros/mypapers/2019_09_BMVC_mocapnet.pdf). BMVC, 2019.  [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MocapNET) ⭐ 952 | 🐛 21 | 🌐 C++ | 📅 2026-08-13
 
 [DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild](https://arxiv.org/abs/2008.09457). ECCV, 2020.  [\[Code\]](https://github.com/naver/dope) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2020-11-23
 
@@ -162,7 +162,7 @@
 
 ## Naked Body Mesh
 
-[Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). ECCV, 2016. [\[Page\]](http://smplify.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,169 | 🐛 88 | 🌐 Python | 📅 2024-02-23
+[Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](http://files.is.tue.mpg.de/black/papers/BogoECCV2016.pdf). ECCV, 2016. [\[Page\]](http://smplify.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,170 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
 [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/pdf/1805.04092.pdf). CVPR, 2018. [\[Page\]](https://www.seas.upenn.edu/~pavlakos/projects/humanshape)
 
@@ -206,7 +206,7 @@
 
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [\[Page\]](https://ait.ethz.ch/projects/2020/learned-body-fitting)
 
-[End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [\[Page\]](https://akanazawa.github.io/hmr) [\[Code\]](https://github.com/akanazawa/hmr) ⭐ 1,666 | 🐛 19 | 🌐 Python | 📅 2023-07-10
+[End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [\[Page\]](https://akanazawa.github.io/hmr) [\[Code\]](https://github.com/akanazawa/hmr) ⭐ 1,667 | 🐛 19 | 🌐 Python | 📅 2023-07-10
 
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [\[Page\]](https://www.seas.upenn.edu/~nkolot/projects/spin) [\[Code\]](https://github.com/nkolot/SPIN) ⭐ 891 | 🐛 51 | 🌐 Python | 📅 2023-12-12
 
@@ -230,7 +230,7 @@
 
 [Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [\[Code\]](https://github.com/facebookresearch/eft) ⭐ 407 | 🐛 15 | 🌐 Python | 📅 2022-01-16
 
-[HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). CVPR, 2021. [\[Page\]](https://jeffli.site/HybrIK) [\[Code\]](https://github.com/Jeff-sjtu/HybrIK) ⭐ 1,624 | 🐛 150 | 🌐 Python | 📅 2025-01-08
+[HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). CVPR, 2021. [\[Page\]](https://jeffli.site/HybrIK) [\[Code\]](https://github.com/Jeff-sjtu/HybrIK) ⭐ 1,625 | 🐛 150 | 🌐 Python | 📅 2025-01-08
 
 [Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory](https://arxiv.org/abs/2012.14739). ArXiv, 2020.
 
@@ -270,7 +270,7 @@
 
 [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601). CVPR, 2019. [\[Page\]](https://akanazawa.github.io/human_dynamics) [\[Code\]](https://github.com/akanazawa/human_dynamics) ⭐ 657 | 🐛 10 | 🌐 Python | 📅 2022-11-21
 
-[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [\[Code\]](https://github.com/mkocabas/VIBE) ⭐ 3,209 | 🐛 126 | 🌐 Python | 📅 2023-03-24
+[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656). CVPR, 2020.  [\[Code\]](https://github.com/mkocabas/VIBE) ⭐ 3,211 | 🐛 126 | 🌐 Python | 📅 2023-03-24
 
 [3D Human Motion Estimation via Motion Compression and Refinement](https://arxiv.org/abs/2008.03789). ACCV (Oral), 2020. [\[Page\]](https://zhengyiluo.github.io/projects/meva) [\[Code\]](https://github.com/ZhengyiLuo/MEVA) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2022-01-11
 
@@ -314,7 +314,7 @@
 
 [Monocular Total Capture: Posing Face, Body and Hands in the Wild](https://arxiv.org/abs/1812.01598). CVPR (Oral), 2019. [\[Page\]](http://domedb.perception.cs.cmu.edu/mtc.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture) ⭐ 676 | 🐛 18 | 🌐 C++ | 📅 2023-09-18
 
-[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,169 | 🐛 88 | 🌐 Python | 📅 2024-02-23
+[Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,170 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
 [FrankMocap: A Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration](https://arxiv.org/pdf/2008.08324.pdf). ArXiv, 2020. [\[Page\]](https://penincillin.github.io/frank_mocap) [\[Code\]](https://github.com/facebookresearch/frankmocap) ⚠️ Archived
 
@@ -328,7 +328,7 @@
 
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [\[Page\]](https://pixie.is.tue.mpg.de)
 
-[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 795 | 🐛 33 | 🌐 Python | 📅 2024-08-26
+[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 796 | 🐛 33 | 🌐 Python | 📅 2024-08-26
 
 [Binarized 3D Whole-body Human Mesh Recovery](https://arxiv.org/abs/2311.14323). ArXiv, 2023.  [\[Code\]](https://github.com/ZHITENGLI/BiDRN) ⭐ 15 | 🐛 1 | 📅 2023-12-02
 
@@ -338,7 +338,7 @@
 
 [SOMA: Solving Optical Marker-Based MoCap Automatically](https://arxiv.org/abs/2110.04431). ICCV, 2021. [\[Page\]](https://soma.is.tue.mpg.de/)
 
-[TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 454 | 🐛 9 | 🌐 Python | 📅 2025-05-08
+[TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 455 | 🐛 9 | 🌐 Python | 📅 2025-05-08
 
 [Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [\[Page\]](https://xinyu-yi.github.io/PIP/) [\[Code\]](https://github.com/Xinyu-Yi/PIP) ⭐ 368 | 🐛 12 | 🌐 Python | 📅 2025-05-08
 
@@ -566,7 +566,7 @@
 
 [DualMotion: Global-to-Local Casual Motion Design for Character Animations](https://arxiv.org/abs/2208.08636). ArXiv, 2022.
 
-[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 323 | 🐛 7 | 🌐 Python | 📅 2021-02-19
+[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 323 | 🐛 7 | 🌐 Python | 📅 2026-09-22
 
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [\[Page\]](https://google.github.io/aichoreographer)
 
@@ -578,7 +578,7 @@
 
 [Rhythm is a Dancer: Music-Driven Motion Synthesis with Global Structure](https://arxiv.org/abs/2111.12159). ArXiv, 2021.
 
-[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 439 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 440 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 ## Human-Object Interaction
 
@@ -772,7 +772,7 @@
 
 [3DPW: Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf). ECCV, 2018. [\[Page\]](http://virtualhumans.mpi-inf.mpg.de/3DPW)
 
-[AMASS: Archive of Motion Capture as Surface Shapes](https://arxiv.org/abs/1904.03278). ICCV, 2019. [\[Page\]](https://amass.is.tue.mpg.de) [\[Code\]](https://github.com/nghorbani/amass) ⭐ 1,013 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-09-17
+[AMASS: Archive of Motion Capture as Surface Shapes](https://arxiv.org/abs/1904.03278). ICCV, 2019. [\[Page\]](https://amass.is.tue.mpg.de) [\[Code\]](https://github.com/nghorbani/amass) ⭐ 1,015 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2026-09-17
 
 [3DBodyTex: Textured 3D Body Dataset](https://orbilu.uni.lu/bitstream/10993/36414/1/saint_et_al-3dbodytex-3dv_2018.pdf). 3DV, 2018. [\[Page\]](https://cvi2.uni.lu/datasets)
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

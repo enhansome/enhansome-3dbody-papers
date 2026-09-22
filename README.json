@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2169,
+            "stars": 2170,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1995,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38807,
+            "stars": 38814,
             "topics": [
               "ai",
               "machine-learning",
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 951,
+            "stars": 952,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2169,
+            "stars": 2170,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1666,
+            "stars": 1667,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1624,
+            "stars": 1625,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3209,
+            "stars": 3211,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2169,
+            "stars": 2170,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2130,7 +2130,7 @@
             "open_issues": 33,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 795,
+            "stars": 796,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 454,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3383,7 +3383,7 @@
             "id": 335132280,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2021-02-19T21:44:37Z",
+            "last_commit": "2026-09-22T18:13:47Z",
             "open_issues": 7,
             "owner": "electronicarts",
             "repo": "character-motion-vaes",
@@ -3429,7 +3429,7 @@
             "open_issues": 38,
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 439,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1013,
+            "stars": 1015,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:41:13.610Z",
+    "last_updated": "2026-09-22T23:17:47.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
