@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2170,
+            "stars": 2171,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T21:46:37Z",
-            "open_issues": 1995,
+            "last_commit": "2026-09-23T21:53:54Z",
+            "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38814,
+            "stars": 38823,
             "topics": [
               "ai",
               "machine-learning",
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 952,
+            "stars": 951,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2170,
+            "stars": 2171,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1667,
+            "stars": 1669,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2170,
+            "stars": 2171,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2082,7 +2082,7 @@
             "open_issues": 30,
             "owner": "facebookresearch",
             "repo": "frankmocap",
-            "stars": 2295,
+            "stars": 2294,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9731,
+            "stars": 9730,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3066,7 +3066,7 @@
             "open_issues": 9,
             "owner": "ZheC",
             "repo": "GTA-IM-Dataset",
-            "stars": 265,
+            "stars": 266,
             "topics": [
               "3d-human-pose",
               "dataset",
@@ -3900,7 +3900,7 @@
             "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 239,
+            "stars": 240,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4150,7 +4150,7 @@
             "open_issues": 13,
             "owner": "tijiang13",
             "repo": "InstantAvatar",
-            "stars": 431,
+            "stars": 430,
             "topics": [
               "3d-human-reconstruction"
             ]
@@ -4173,7 +4173,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 952,
+            "stars": 953,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:17:47.148Z",
+    "last_updated": "2026-09-23T23:13:51.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
