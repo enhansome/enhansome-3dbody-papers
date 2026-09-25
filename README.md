@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,715 | 🐛 135 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,716 | 🐛 135 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,171 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,828 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,834 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-23
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -206,7 +206,7 @@
 
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [\[Page\]](https://ait.ethz.ch/projects/2020/learned-body-fitting)
 
-[End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [\[Page\]](https://akanazawa.github.io/hmr) [\[Code\]](https://github.com/akanazawa/hmr) ⭐ 1,669 | 🐛 19 | 🌐 Python | 📅 2023-07-10
+[End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [\[Page\]](https://akanazawa.github.io/hmr) [\[Code\]](https://github.com/akanazawa/hmr) ⭐ 1,670 | 🐛 19 | 🌐 Python | 📅 2023-07-10
 
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [\[Page\]](https://www.seas.upenn.edu/~nkolot/projects/spin) [\[Code\]](https://github.com/nkolot/SPIN) ⭐ 891 | 🐛 51 | 🌐 Python | 📅 2023-12-12
 
@@ -274,7 +274,7 @@
 
 [3D Human Motion Estimation via Motion Compression and Refinement](https://arxiv.org/abs/2008.03789). ACCV (Oral), 2020. [\[Page\]](https://zhengyiluo.github.io/projects/meva) [\[Code\]](https://github.com/ZhengyiLuo/MEVA) ⭐ 107 | 🐛 6 | 🌐 Python | 📅 2022-01-11
 
-[Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video](https://arxiv.org/abs/2011.08627). CVPR, 2021. [\[Page\]](https://youtu.be/WB3nTnSQDII) [\[Code\]](https://github.com/hongsukchoi/TCMR_RELEASE) ⭐ 315 | 🐛 37 | 🌐 Python | 📅 2023-04-18
+[Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video](https://arxiv.org/abs/2011.08627). CVPR, 2021. [\[Page\]](https://youtu.be/WB3nTnSQDII) [\[Code\]](https://github.com/hongsukchoi/TCMR_RELEASE) ⭐ 314 | 🐛 37 | 🌐 Python | 📅 2023-04-18
 
 [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760). CVPR, 2021.  [\[Code\]](https://github.com/microsoft/MeshTransformer) ⭐ 646 | 🐛 30 | 🌐 Python | 📅 2023-07-06
 
@@ -530,7 +530,7 @@
 
 [MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://arxiv.org/abs/2108.07152). ICCV, 2021.  [\[Code\]](https://github.com/Droliven/MSRGCN) ⭐ 70 | 🐛 1 | 🌐 Python | 📅 2023-05-22
 
-[Stochastic Scene-Aware Motion Prediction](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/652/samp.pdf). ICCV, 2021. [\[Page\]](https://samp.is.tue.mpg.de) [\[Code\]](https://github.com/mohamedhassanmus/SAMP) ⭐ 144 | 🐛 1 | 🌐 C++ | 📅 2021-11-04
+[Stochastic Scene-Aware Motion Prediction](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/652/samp.pdf). ICCV, 2021. [\[Page\]](https://samp.is.tue.mpg.de) [\[Code\]](https://github.com/mohamedhassanmus/SAMP) ⭐ 143 | 🐛 1 | 🌐 C++ | 📅 2021-11-04
 
 [GIMO: Gaze-Informed Human Motion Prediction in Context](https://arxiv.org/abs/2204.09443). ArXiv, 2022.
 
@@ -722,7 +722,7 @@
 
 [RANA: Relightable Articulated Neural Avatars](https://arxiv.org/abs/2212.03237). ArXiv, 2022. [\[Page\]](https://nvlabs.github.io/RANA/)
 
-[Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). CVPR, 2021. [\[Page\]](https://zju3dv.github.io/neuralbody) [\[Code\]](https://github.com/zju3dv/neuralbody) ⭐ 953 | 🐛 6 | 🌐 Python | 📅 2026-09-15
+[Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838). CVPR, 2021. [\[Page\]](https://zju3dv.github.io/neuralbody) [\[Code\]](https://github.com/zju3dv/neuralbody) ⭐ 954 | 🐛 6 | 🌐 Python | 📅 2026-09-15
 
 [Efficient Neural Radiance Fields with Learned Depth-Guided Sampling](https://arxiv.org/abs/2112.01517). ArXiv, 2021. [\[Page\]](https://zju3dv.github.io/enerf/)
 
@@ -738,7 +738,7 @@
 
 [Neural Articulated Radiance Field](https://arxiv.org/abs/2104.03110). ArXiv, 2021.  [\[Code\]](https://github.com/nogu-atsu/NARF) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2022-04-12
 
-[Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [\[Page\]](https://zju3dv.github.io/animatable_nerf) [\[Code\]](https://github.com/zju3dv/animatable_nerf) ⭐ 524 | 🐛 6 | 🌐 Python | 📅 2026-09-15
+[Animatable Neural Radiance Fields for Human Body Modeling](https://arxiv.org/abs/2105.02872). ArXiv, 2021. [\[Page\]](https://zju3dv.github.io/animatable_nerf) [\[Code\]](https://github.com/zju3dv/animatable_nerf) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-09-15
 
 [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/abs/2104.14786). SIGGRAPH, 2021. [\[Page\]](https://www.youtube.com/watch?v=Wp4HfOwFGP4)
 
@@ -762,7 +762,7 @@
 
 [Structured Local Radiance Fields for Human Avatar Modeling](https://arxiv.org/abs/2203.14478). CVPR, 2022. [\[Page\]](https://liuyebin.com/slrf/slrf.html)
 
-[Animatable Neural Implicit Surfaces for Creating Avatars from Videos](https://arxiv.org/abs/2203.08133). ICCV, 2021. [\[Page\]](https://zju3dv.github.io/animatable_sdf/) [\[Code\]](https://github.com/zju3dv/animatable_nerf) ⭐ 524 | 🐛 6 | 🌐 Python | 📅 2026-09-15
+[Animatable Neural Implicit Surfaces for Creating Avatars from Videos](https://arxiv.org/abs/2203.08133). ICCV, 2021. [\[Page\]](https://zju3dv.github.io/animatable_sdf/) [\[Code\]](https://github.com/zju3dv/animatable_nerf) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-09-15
 
 [DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://arxiv.org/abs/2106.03798). CVPR, 2022. [\[Page\]](http://www.liuyebin.com/dbfield/dbfield.html)
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

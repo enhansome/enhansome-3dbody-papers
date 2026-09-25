@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2715,
+            "stars": 2716,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38828,
+            "stars": 38834,
             "topics": [
               "ai",
               "machine-learning",
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1669,
+            "stars": 1670,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1820,7 +1820,7 @@
             "open_issues": 37,
             "owner": "hongsukchoi",
             "repo": "TCMR_RELEASE",
-            "stars": 315,
+            "stars": 314,
             "topics": [
               "3d-human-mesh",
               "3d-human-motion",
@@ -2082,7 +2082,7 @@
             "open_issues": 30,
             "owner": "facebookresearch",
             "repo": "frankmocap",
-            "stars": 2294,
+            "stars": 2293,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9730,
+            "stars": 9731,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3168,7 +3168,7 @@
             "open_issues": 1,
             "owner": "mohamedhassanmus",
             "repo": "SAMP",
-            "stars": 144,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4173,7 +4173,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 953,
+            "stars": 954,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4236,7 +4236,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4323,7 +4323,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:33:28.563Z",
+    "last_updated": "2026-09-25T23:37:28.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
