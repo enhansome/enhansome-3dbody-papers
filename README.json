@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2716,
+            "stars": 2717,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38834,
+            "stars": 38831,
             "topics": [
               "ai",
               "machine-learning",
@@ -514,7 +514,7 @@
             "open_issues": 15,
             "owner": "3dpose",
             "repo": "3D-Multi-Person-Pose",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "3d-human-pose",
               "3d-human-pose-estimation-absolute",
@@ -1268,7 +1268,7 @@
             "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -1455,7 +1455,7 @@
             "open_issues": 4,
             "owner": "zju3dv",
             "repo": "Mirrored-Human",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1505,7 +1505,7 @@
             "open_issues": 9,
             "owner": "JiangWenPL",
             "repo": "multiperson",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "cvpr",
               "cvpr2020",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3211,
+            "stars": 3213,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -1792,7 +1792,7 @@
             "open_issues": 6,
             "owner": "ZhengyiLuo",
             "repo": "MEVA",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -1820,7 +1820,7 @@
             "open_issues": 37,
             "owner": "hongsukchoi",
             "repo": "TCMR_RELEASE",
-            "stars": 314,
+            "stars": 315,
             "topics": [
               "3d-human-mesh",
               "3d-human-motion",
@@ -2880,7 +2880,7 @@
             "open_issues": 4,
             "owner": "luyangzhu",
             "repo": "NBA-Players",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "3d-human-mesh",
               "3d-human-pose",
@@ -3303,7 +3303,7 @@
             "open_issues": 29,
             "owner": "brjathu",
             "repo": "PHALP",
-            "stars": 348,
+            "stars": 349,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3719,7 +3719,7 @@
             "open_issues": 64,
             "owner": "DeepMotionEditing",
             "repo": "deep-motion-editing",
-            "stars": 1723,
+            "stars": 1724,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -4302,7 +4302,7 @@
             "open_issues": 55,
             "owner": "apple-aiml-research",
             "repo": "ml-neuman",
-            "stars": 1288,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4487,7 +4487,7 @@
             "open_issues": 4,
             "owner": "zju3dv",
             "repo": "Mirrored-Human",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:37:28.143Z",
+    "last_updated": "2026-09-26T23:11:50.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
@@ -4535,7 +4535,7 @@
       "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 665,
+      "stars": 666,
       "topics": [
         "3d-body",
         "3d-pose",
