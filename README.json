@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2171,
+            "stars": 2172,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "ahmedosman",
             "repo": "STAR",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "3d-models",
               "body",
@@ -134,7 +134,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38831,
+            "stars": 38832,
             "topics": [
               "ai",
               "machine-learning",
@@ -714,7 +714,7 @@
             "open_issues": 14,
             "owner": "Vegetebird",
             "repo": "MHFormer",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2171,
+            "stars": 2172,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1184,7 +1184,7 @@
             "open_issues": 51,
             "owner": "nkolot",
             "repo": "SPIN",
-            "stars": 891,
+            "stars": 892,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1268,7 +1268,7 @@
             "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 725,
+            "stars": 726,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1625,
+            "stars": 1626,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1424,7 +1424,7 @@
             "open_issues": 2,
             "owner": "ChenFengYe",
             "repo": "SportsCap",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "action-recognition",
               "dataset",
@@ -1739,7 +1739,7 @@
             "open_issues": 10,
             "owner": "akanazawa",
             "repo": "human_dynamics",
-            "stars": 657,
+            "stars": 658,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2171,
+            "stars": 2172,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2103,7 +2103,7 @@
             "open_issues": 48,
             "owner": "vchoutas",
             "repo": "expose",
-            "stars": 674,
+            "stars": 675,
             "topics": [
               "3d-pose-estimation",
               "expressive-body-capture",
@@ -2130,7 +2130,7 @@
             "open_issues": 33,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -2657,7 +2657,7 @@
             "open_issues": 13,
             "owner": "Project-Splinter",
             "repo": "MonoPort",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "3d-reconstruction",
               "3d-vision",
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -3066,7 +3066,7 @@
             "open_issues": 9,
             "owner": "ZheC",
             "repo": "GTA-IM-Dataset",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "3d-human-pose",
               "dataset",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:11:50.402Z",
+    "last_updated": "2026-09-27T23:26:34.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
