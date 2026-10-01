@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2719,
+            "stars": 2720,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T21:53:54Z",
+            "last_commit": "2026-09-30T21:03:49Z",
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38851,
+            "stars": 38856,
             "topics": [
               "ai",
               "machine-learning",
@@ -1268,7 +1268,7 @@
             "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -2282,7 +2282,7 @@
             "open_issues": 23,
             "owner": "jby1993",
             "repo": "SelfReconCode",
-            "stars": 415,
+            "stars": 414,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2541,7 +2541,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9728,
+            "stars": 9729,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2804,7 +2804,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1680,
+            "stars": 1679,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1212,
+            "stars": 1211,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:58:26.564Z",
+    "last_updated": "2026-10-01T00:12:13.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
