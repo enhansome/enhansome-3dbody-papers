@@ -134,7 +134,7 @@
             "open_issues": 1996,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38856,
+            "stars": 38859,
             "topics": [
               "ai",
               "machine-learning",
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1625,
+            "stars": 1626,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1015,
+            "stars": 1016,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:12:13.552Z",
+    "last_updated": "2026-10-02T00:16:10.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
