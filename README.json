@@ -134,7 +134,7 @@
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38873,
+            "stars": 38874,
             "topics": [
               "ai",
               "machine-learning",
@@ -514,7 +514,7 @@
             "open_issues": 15,
             "owner": "3dpose",
             "repo": "3D-Multi-Person-Pose",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "3d-human-pose",
               "3d-human-pose-estimation-absolute",
@@ -3849,7 +3849,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1017,
+            "stars": 1018,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:32:01.238Z",
+    "last_updated": "2026-10-06T10:14:15.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
