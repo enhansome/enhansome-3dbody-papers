@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2720,
+            "stars": 2722,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T21:03:49Z",
+            "last_commit": "2026-10-07T21:04:37Z",
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38878,
+            "stars": 38880,
             "topics": [
               "ai",
               "machine-learning",
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9728,
+            "stars": 9727,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3168,7 +3168,7 @@
             "open_issues": 1,
             "owner": "mohamedhassanmus",
             "repo": "SAMP",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:11:35.804Z",
+    "last_updated": "2026-10-08T00:27:41.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",

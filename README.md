@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,720 | 🐛 135 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,722 | 🐛 135 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,176 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,878 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,880 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-10-07
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -246,7 +246,7 @@
 
 [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340). CVPR (Oral), 2021. [\[Page\]](https://zju3dv.github.io/Mirrored-Human) [\[Code\]](https://github.com/zju3dv/Mirrored-Human) ⭐ 193 | 🐛 4 | 📅 2026-09-15
 
-[CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image](https://arxiv.org/pdf/2008.12272.pdf). ArXiv, 2020.  [\[Code\]](https://github.com/Arthur151/CenterHMR) ⭐ 1,543 | 🐛 196 | 🌐 Python | 📅 2024-11-14
+[CenterHMR: a Bottom-up Single-shot Method for Multi-person 3D Mesh Recovery from a Single Image](https://arxiv.org/pdf/2008.12272.pdf). ArXiv, 2020.  [\[Code\]](https://github.com/Arthur151/CenterHMR) ⭐ 1,544 | 🐛 196 | 🌐 Python | 📅 2024-11-14
 
 [Full-body motion capture for multiple closely interacting persons](http://cic.tju.edu.cn/faculty/likun/GM.pdf). CVM, 2020.
 
@@ -254,11 +254,11 @@
 
 [Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image](https://arxiv.org/abs/1907.11346). ICCV, 2019.  [\[Code\]](https://github.com/mks0601/3DMPPE_POSENET_RELEASE) ⭐ 865 | 🐛 41 | 🌐 Python | 📅 2024-07-10
 
-[Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272). ArXiv, 2020.  [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,543 | 🐛 196 | 🌐 Python | 📅 2024-11-14
+[Monocular, One-stage, Regression of Multiple 3D People](https://arxiv.org/abs/2008.12272). ArXiv, 2020.  [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,544 | 🐛 196 | 🌐 Python | 📅 2024-11-14
 
-[Putting People in their Place: Monocular Regression of 3D People in Depth](https://arxiv.org/abs/2112.08274). CVPR, 2022. [\[Page\]](https://www.yusun.work/BEV/BEV.html) [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,543 | 🐛 196 | 🌐 Python | 📅 2024-11-14
+[Putting People in their Place: Monocular Regression of 3D People in Depth](https://arxiv.org/abs/2112.08274). CVPR, 2022. [\[Page\]](https://www.yusun.work/BEV/BEV.html) [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,544 | 🐛 196 | 🌐 Python | 📅 2024-11-14
 
-[TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://arxiv.org/abs/2306.02850). CVPR, 2023. [\[Page\]](https://www.yusun.work/TRACE/TRACE.html) [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,543 | 🐛 196 | 🌐 Python | 📅 2024-11-14
+[TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://arxiv.org/abs/2306.02850). CVPR, 2023. [\[Page\]](https://www.yusun.work/TRACE/TRACE.html) [\[Code\]](https://github.com/Arthur151/ROMP) ⭐ 1,544 | 🐛 196 | 🌐 Python | 📅 2024-11-14
 
 [GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras](https://arxiv.org/abs/2112.01524). CVPR (Oral), 2022. [\[Page\]](https://nvlabs.github.io/GLAMR/) [\[Code\]](https://github.com/NVlabs/GLAMR) ⭐ 390 | 🐛 38 | 🌐 Python | 📅 2026-02-18
 
@@ -530,7 +530,7 @@
 
 [MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://arxiv.org/abs/2108.07152). ICCV, 2021.  [\[Code\]](https://github.com/Droliven/MSRGCN) ⭐ 70 | 🐛 1 | 🌐 Python | 📅 2023-05-22
 
-[Stochastic Scene-Aware Motion Prediction](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/652/samp.pdf). ICCV, 2021. [\[Page\]](https://samp.is.tue.mpg.de) [\[Code\]](https://github.com/mohamedhassanmus/SAMP) ⭐ 143 | 🐛 1 | 🌐 C++ | 📅 2021-11-04
+[Stochastic Scene-Aware Motion Prediction](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/652/samp.pdf). ICCV, 2021. [\[Page\]](https://samp.is.tue.mpg.de) [\[Code\]](https://github.com/mohamedhassanmus/SAMP) ⭐ 144 | 🐛 1 | 🌐 C++ | 📅 2021-11-04
 
 [GIMO: Gaze-Informed Human Motion Prediction in Context](https://arxiv.org/abs/2204.09443). ArXiv, 2022.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
