@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2722,
+            "stars": 2723,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T21:04:37Z",
+            "last_commit": "2026-10-08T17:38:14Z",
             "open_issues": 1997,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38880,
+            "stars": 38884,
             "topics": [
               "ai",
               "machine-learning",
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1626,
+            "stars": 1628,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1645,7 +1645,7 @@
             "open_issues": 38,
             "owner": "NVlabs",
             "repo": "GLAMR",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "3d-reconstruction",
               "cvpr2022",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3213,
+            "stars": 3214,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -2976,7 +2976,7 @@
             "open_issues": 4,
             "owner": "yasaminjafarian",
             "repo": "HDNet_TikTok",
-            "stars": 344,
+            "stars": 345,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3801,7 +3801,7 @@
             "open_issues": 11,
             "owner": "GAP-LAB-CUHK-SZ",
             "repo": "REC-MV",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "3d-models",
               "3d-reconstruction",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:27:41.232Z",
+    "last_updated": "2026-10-09T00:42:00.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
@@ -4535,7 +4535,7 @@
       "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 666,
+      "stars": 667,
       "topics": [
         "3d-body",
         "3d-pose",
