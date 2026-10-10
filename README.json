@@ -19,7 +19,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2723,
+            "stars": 2725,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T17:38:14Z",
-            "open_issues": 1997,
+            "last_commit": "2026-10-09T17:22:43Z",
+            "open_issues": 1998,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38884,
+            "stars": 38886,
             "topics": [
               "ai",
               "machine-learning",
@@ -326,7 +326,7 @@
             "open_issues": 8,
             "owner": "Nicholasli1995",
             "repo": "EvoSkeleton",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "2d-to-3d",
               "3d-computer-vision",
@@ -1424,7 +1424,7 @@
             "open_issues": 2,
             "owner": "ChenFengYe",
             "repo": "SportsCap",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "action-recognition",
               "dataset",
@@ -2227,7 +2227,7 @@
             "open_issues": 0,
             "owner": "MoyGcc",
             "repo": "hpcwild",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "3d-vision",
               "3dv2021",
@@ -3135,7 +3135,7 @@
             "open_issues": 1,
             "owner": "Droliven",
             "repo": "MSRGCN",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "deep-learning",
               "deterministic",
@@ -3387,7 +3387,7 @@
             "open_issues": 7,
             "owner": "electronicarts",
             "repo": "character-motion-vaes",
-            "stars": 323,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3429,7 +3429,7 @@
             "open_issues": 38,
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 440,
+            "stars": 441,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3575,7 +3575,7 @@
             "open_issues": 6,
             "owner": "YinghaoHuang91",
             "repo": "InterCap",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3900,7 +3900,7 @@
             "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 240,
+            "stars": 241,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:42:00.564Z",
+    "last_updated": "2026-10-10T00:20:48.140Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
@@ -4535,7 +4535,7 @@
       "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 667,
+      "stars": 665,
       "topics": [
         "3d-body",
         "3d-pose",

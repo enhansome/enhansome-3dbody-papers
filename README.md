@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,723 | 🐛 135 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,725 | 🐛 135 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,176 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,884 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-10-08
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,886 | 🐛 1,998 | 🌐 Jupyter Notebook | 📅 2026-10-09
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -74,7 +74,7 @@
 
 [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2105.02465). CVPR (Oral), 2021. [\[Page\]](https://jeff95.me) [\[Code\]](https://github.com/jfzhang95/PoseAug) ⭐ 383 | 🐛 2 | 🌐 Python | 📅 2022-04-03
 
-[Cascaded Deep Monocular 3D Human Pose Estimation with Evolutionary Training Data](https://arxiv.org/abs/2006.07778). CVPR, 2020.  [\[Code\]](https://github.com/Nicholasli1995/EvoSkeleton) ⭐ 342 | 🐛 8 | 🌐 Python | 📅 2021-07-10
+[Cascaded Deep Monocular 3D Human Pose Estimation with Evolutionary Training Data](https://arxiv.org/abs/2006.07778). CVPR, 2020.  [\[Code\]](https://github.com/Nicholasli1995/EvoSkeleton) ⭐ 343 | 🐛 8 | 🌐 Python | 📅 2021-07-10
 
 [PoseLifter: Absolute 3D Human Pose Lifting Network from a Single Noisy 2D Human Pose](https://arxiv.org/abs/1910.12029). ArXiv, 2020.  [\[Code\]](https://github.com/juyongchang/PoseLifter) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2023-05-10
 
@@ -242,7 +242,7 @@
 
 [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/abs/2104.00683). CVPR (Oral), 2021. [\[Page\]](https://www.ye-yuan.com/simpoe)
 
-[SportsCap: Monocular 3D Human Motion Capture and Fine-grained Understanding in Challenging Sports Videos](https://arxiv.org/abs/2104.11452). IJCV, 2021. [\[Page\]](https://chenxin.tech/SportsCap.html) [\[Code\]](https://github.com/ChenFengYe/SportsCap) ⭐ 150 | 🐛 2 | 🌐 Python | 📅 2021-08-17
+[SportsCap: Monocular 3D Human Motion Capture and Fine-grained Understanding in Challenging Sports Videos](https://arxiv.org/abs/2104.11452). IJCV, 2021. [\[Page\]](https://chenxin.tech/SportsCap.html) [\[Code\]](https://github.com/ChenFengYe/SportsCap) ⭐ 151 | 🐛 2 | 🌐 Python | 📅 2021-08-17
 
 [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340). CVPR (Oral), 2021. [\[Page\]](https://zju3dv.github.io/Mirrored-Human) [\[Code\]](https://github.com/zju3dv/Mirrored-Human) ⭐ 193 | 🐛 4 | 📅 2026-09-15
 
@@ -352,7 +352,7 @@
 
 [MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video](http://arxiv.org/abs/2009.10711). 3DV, 2020.
 
-[Human Performance Capture from Monocular Video in the Wild](https://arxiv.org/abs/2111.14672). 3DV, 2021. [\[Page\]](https://ait.ethz.ch/projects/2021/human-performance-capture/index.php) [\[Code\]](https://github.com/MoyGcc/hpcwild) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2023-09-27
+[Human Performance Capture from Monocular Video in the Wild](https://arxiv.org/abs/2111.14672). 3DV, 2021. [\[Page\]](https://ait.ethz.ch/projects/2021/human-performance-capture/index.php) [\[Code\]](https://github.com/MoyGcc/hpcwild) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2023-09-27
 
 [MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera](https://arxiv.org/abs/2004.05815). TVCG, 2020. [\[Page\]](http://www.liuyebin.com/MulayCap/MulayCap.html)
 
@@ -528,7 +528,7 @@
 
 [Improving Human Motion Prediction Through Continual Learning](https://arxiv.org/abs/2107.00544). ArXiv, 2021.
 
-[MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://arxiv.org/abs/2108.07152). ICCV, 2021.  [\[Code\]](https://github.com/Droliven/MSRGCN) ⭐ 70 | 🐛 1 | 🌐 Python | 📅 2023-05-22
+[MSR-GCN: Multi-Scale Residual Graph Convolution Networks for Human Motion Prediction](https://arxiv.org/abs/2108.07152). ICCV, 2021.  [\[Code\]](https://github.com/Droliven/MSRGCN) ⭐ 71 | 🐛 1 | 🌐 Python | 📅 2023-05-22
 
 [Stochastic Scene-Aware Motion Prediction](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/652/samp.pdf). ICCV, 2021. [\[Page\]](https://samp.is.tue.mpg.de) [\[Code\]](https://github.com/mohamedhassanmus/SAMP) ⭐ 144 | 🐛 1 | 🌐 C++ | 📅 2021-11-04
 
@@ -566,7 +566,7 @@
 
 [DualMotion: Global-to-Local Casual Motion Design for Character Animations](https://arxiv.org/abs/2208.08636). ArXiv, 2022.
 
-[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 323 | 🐛 7 | 🌐 Python | 📅 2026-09-22
+[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 324 | 🐛 7 | 🌐 Python | 📅 2026-09-22
 
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [\[Page\]](https://google.github.io/aichoreographer)
 
@@ -578,7 +578,7 @@
 
 [Rhythm is a Dancer: Music-Driven Motion Synthesis with Global Structure](https://arxiv.org/abs/2111.12159). ArXiv, 2021.
 
-[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 440 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 441 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 ## Human-Object Interaction
 
@@ -586,13 +586,13 @@
 
 [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 231 | 🐛 10 | 🌐 Python | 📅 2021-07-13
 
-[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 393 | 🐛 10 | 🌐 Python | 📅 2022-03-08
+[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 394 | 🐛 10 | 🌐 Python | 📅 2022-03-08
 
 [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [\[Page\]](http://4dqv.mpi-inf.mpg.de/GraviCap/) [\[Code\]](https://github.com/rishabhdabral/gravicap) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2021-10-12
 
 [CHORE: Contact, Human and Object REconstruction from a single RGB image](https://arxiv.org/abs/2204.02445). ECCV, 2022. [\[Page\]](https://virtualhumans.mpi-inf.mpg.de/chore/) [\[Code\]](https://github.com/xiexh20/CHORE) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2024-11-13
 
-[InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction](https://arxiv.org/abs/2209.12354). GCPR, 2022. [\[Page\]](https://intercap.is.tue.mpg.de/) [\[Code\]](https://github.com/YinghaoHuang91/InterCap) ⭐ 53 | 🐛 6 | 📅 2024-04-27
+[InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction](https://arxiv.org/abs/2209.12354). GCPR, 2022. [\[Page\]](https://intercap.is.tue.mpg.de/) [\[Code\]](https://github.com/YinghaoHuang91/InterCap) ⭐ 54 | 🐛 6 | 📅 2024-04-27
 
 [BEHAVE: Dataset and Method for Tracking Human Object Interactions](http://virtualhumans.mpi-inf.mpg.de/papers/bhatnagar22behave/behave.pdf). CVPR, 2022. [\[Page\]](http://virtualhumans.mpi-inf.mpg.de/behave/) [\[Code\]](https://github.com/xiexh20/behave-dataset) ⭐ 192 | 🐛 3 | 🌐 Python | 📅 2025-02-16
 
@@ -662,7 +662,7 @@
 
 [P-Cloth: Interactive Complex Cloth Simulation on Multi-GPU Systems using Dynamic Matrix Assembly and Pipelined Implicit Integrators](https://arxiv.org/abs/2008.00409). SIGGRAPH Asia, 2020. [\[Page\]](https://min-tang.github.io/home/PCloth/index.html) [\[Code\]](https://min-tang.github.io/home/PCloth/files/MultiGPUCGSolver-0.1.zip)
 
-[Neural Cloth Simulation](https://arxiv.org/abs/2212.11220). SIGGRAPH Asia, 2022. [\[Page\]](https://hbertiche.github.io/NeuralClothSim/) [\[Code\]](https://github.com/hbertiche/NeuralClothSim) ⭐ 240 | 🐛 4 | 🌐 Python | 📅 2023-07-10
+[Neural Cloth Simulation](https://arxiv.org/abs/2212.11220). SIGGRAPH Asia, 2022. [\[Page\]](https://hbertiche.github.io/NeuralClothSim/) [\[Code\]](https://github.com/hbertiche/NeuralClothSim) ⭐ 241 | 🐛 4 | 🌐 Python | 📅 2023-07-10
 
 [N-Cloth: Predicting 3D Cloth Deformation with Mesh-Based Networks](https://arxiv.org/abs/2112.06397). Eurographics, 2022. [\[Page\]](https://min-tang.github.io/home/NCloth/)
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
