@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,888 | 🐛 1,998 | 🌐 Jupyter Notebook | 📅 2026-10-10
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,897 | 🐛 2,005 | 🌐 Jupyter Notebook | 📅 2026-10-10
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -230,7 +230,7 @@
 
 [Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [\[Code\]](https://github.com/facebookresearch/eft) ⭐ 407 | 🐛 15 | 🌐 Python | 📅 2022-01-16
 
-[HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). CVPR, 2021. [\[Page\]](https://jeffli.site/HybrIK) [\[Code\]](https://github.com/Jeff-sjtu/HybrIK) ⭐ 1,627 | 🐛 150 | 🌐 Python | 📅 2025-01-08
+[HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). CVPR, 2021. [\[Page\]](https://jeffli.site/HybrIK) [\[Code\]](https://github.com/Jeff-sjtu/HybrIK) ⭐ 1,628 | 🐛 150 | 🌐 Python | 📅 2025-01-08
 
 [Chasing the Tail in Monocular 3D Human Reconstruction with Prototype Memory](https://arxiv.org/abs/2012.14739). ArXiv, 2020.
 
@@ -464,7 +464,7 @@
 
 [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313). CVPR (Oral), 2021. [\[Page\]](https://scanimate.is.tue.mpg.de) [\[Code\]](https://github.com/shunsukesaito/SCANimate) ⭐ 282 | 🐛 8 | 🌐 Python | 📅 2021-12-31
 
-[ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [\[Page\]](https://icon.is.tue.mpg.de/) [\[Code\]](https://github.com/YuliangXiu/ICON) ⭐ 1,679 | 🐛 52 | 🌐 Python | 📅 2023-11-23
+[ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [\[Page\]](https://icon.is.tue.mpg.de/) [\[Code\]](https://github.com/YuliangXiu/ICON) ⭐ 1,680 | 🐛 52 | 🌐 Python | 📅 2023-11-23
 
 [ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/abs/2212.07422). CVPR, 2023. [\[Page\]](https://xiuyuliang.cn/econ/) [\[Code\]](https://github.com/YuliangXiu/ECON) ⭐ 1,213 | 🐛 41 | 🌐 Python | 📅 2024-09-17
 
@@ -612,7 +612,7 @@
 
 [Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets](http://people.cs.umass.edu/~zhanxu/papers/AnimSkelVolNet.pdf). 3DV (Oral), 2019. [\[Page\]](https://people.cs.umass.edu/~zhanxu/projects/AnimSkelVolNet/) [\[Code\]](https://github.com/zhan-xu/AnimSkelVolNet) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2024-11-04
 
-[RigNet: Neural Rigging for Articulated Characters](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf). SIGGRAPH, 2020. [\[Page\]](https://zhan-xu.github.io/rig-net) [\[Code\]](https://github.com/zhan-xu/RigNet) ⭐ 1,520 | 🐛 28 | 🌐 Python | 📅 2024-11-04
+[RigNet: Neural Rigging for Articulated Characters](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf). SIGGRAPH, 2020. [\[Page\]](https://zhan-xu.github.io/rig-net) [\[Code\]](https://github.com/zhan-xu/RigNet) ⭐ 1,521 | 🐛 28 | 🌐 Python | 📅 2024-11-04
 
 [HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction](https://arxiv.org/abs/2103.10602). I3D, 2021.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
