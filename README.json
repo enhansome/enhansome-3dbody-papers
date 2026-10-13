@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T13:39:16Z",
+            "last_commit": "2026-10-13T06:27:55Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38903,
+            "stars": 38909,
             "topics": [
               "ai",
               "machine-learning",
@@ -714,7 +714,7 @@
             "open_issues": 14,
             "owner": "Vegetebird",
             "repo": "MHFormer",
-            "stars": 610,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -735,7 +735,7 @@
             "open_issues": 26,
             "owner": "fabro66",
             "repo": "GAST-Net-3DPoseEstimation",
-            "stars": 326,
+            "stars": 325,
             "topics": [
               "3d-pose-estimation-video",
               "gast-net",
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 955,
+            "stars": 954,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -1268,7 +1268,7 @@
             "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 726,
+            "stars": 725,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1629,
+            "stars": 1630,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1544,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1544,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1544,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1544,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -2040,7 +2040,7 @@
             "open_issues": 18,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "MonocularTotalCapture",
-            "stars": 676,
+            "stars": 677,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2541,7 +2541,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1819,
+            "stars": 1821,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9726,
+            "stars": 9725,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3168,7 +3168,7 @@
             "open_issues": 1,
             "owner": "mohamedhassanmus",
             "repo": "SAMP",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "body-object-contact",
               "contact",
@@ -4129,7 +4129,7 @@
             "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 455,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4302,7 +4302,7 @@
             "open_issues": 55,
             "owner": "apple-aiml-research",
             "repo": "ml-neuman",
-            "stars": 1285,
+            "stars": 1286,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1019,
+            "stars": 1020,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:15:56.638Z",
+    "last_updated": "2026-10-13T23:57:46.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
