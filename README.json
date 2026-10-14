@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2731,
+            "stars": 2732,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2179,
+            "stars": 2180,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "ahmedosman",
             "repo": "STAR",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "3d-models",
               "body",
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:27:55Z",
+            "last_commit": "2026-10-14T21:40:54Z",
             "open_issues": 2005,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38909,
+            "stars": 38915,
             "topics": [
               "ai",
               "machine-learning",
@@ -794,7 +794,7 @@
             "open_issues": 11,
             "owner": "lrxjason",
             "repo": "Attention3DHumanPose",
-            "stars": 152,
+            "stars": 151,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 954,
+            "stars": 955,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2179,
+            "stars": 2180,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2016,7 +2016,7 @@
             "open_issues": 16,
             "owner": "ziniuwan",
             "repo": "maed",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "deep-learning",
               "pytorch"
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2179,
+            "stars": 2180,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 455,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2200,7 +2200,7 @@
             "open_issues": 12,
             "owner": "Xinyu-Yi",
             "repo": "PIP",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9725,
+            "stars": 9723,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -3477,7 +3477,7 @@
             "open_issues": 10,
             "owner": "mohamedhassanmus",
             "repo": "prox",
-            "stars": 231,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3596,7 +3596,7 @@
             "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -4508,7 +4508,7 @@
             "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:57:46.829Z",
+    "last_updated": "2026-10-14T23:29:41.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
