@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2180,
+            "stars": 2181,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:40:54Z",
-            "open_issues": 2005,
+            "last_commit": "2026-10-15T02:18:00Z",
+            "open_issues": 2006,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38915,
+            "stars": 38923,
             "topics": [
               "ai",
               "machine-learning",
@@ -430,7 +430,7 @@
             "open_issues": 35,
             "owner": "karfly",
             "repo": "learnable-triangulation-pytorch",
-            "stars": 1134,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2180,
+            "stars": 2181,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2180,
+            "stars": 2181,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9723,
+            "stars": 9722,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3698,7 +3698,7 @@
             "open_issues": 28,
             "owner": "zhan-xu",
             "repo": "RigNet",
-            "stars": 1520,
+            "stars": 1521,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4173,7 +4173,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 954,
+            "stars": 955,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:29:41.800Z",
+    "last_updated": "2026-10-15T23:20:00.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
