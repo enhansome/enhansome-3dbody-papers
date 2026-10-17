@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2734,
+            "stars": 2736,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38928,
+            "stars": 38931,
             "topics": [
               "ai",
               "machine-learning",
@@ -714,7 +714,7 @@
             "open_issues": 14,
             "owner": "Vegetebird",
             "repo": "MHFormer",
-            "stars": 609,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1631,
+            "stars": 1632,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3215,
+            "stars": 3216,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -2082,7 +2082,7 @@
             "open_issues": 30,
             "owner": "facebookresearch",
             "repo": "frankmocap",
-            "stars": 2294,
+            "stars": 2293,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3900,7 +3900,7 @@
             "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 241,
+            "stars": 242,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:03:19.726Z",
+    "last_updated": "2026-10-17T22:41:56.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
