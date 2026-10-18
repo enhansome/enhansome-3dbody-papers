@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2736,
+            "stars": 2737,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2181,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38931,
+            "stars": 38946,
             "topics": [
               "ai",
               "machine-learning",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2181,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1226,7 +1226,7 @@
             "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 737,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3216,
+            "stars": 3217,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2181,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4129,7 +4129,7 @@
             "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 454,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:41:56.880Z",
+    "last_updated": "2026-10-18T22:37:56.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
