@@ -134,7 +134,7 @@
             "open_issues": 2008,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38946,
+            "stars": 38961,
             "topics": [
               "ai",
               "machine-learning",
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "body-object-contact",
               "contact",
@@ -4344,7 +4344,7 @@
             "open_issues": 10,
             "owner": "zhaofuq",
             "repo": "Instant-NSR",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1020,
+            "stars": 1021,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:37:56.814Z",
+    "last_updated": "2026-10-19T23:57:48.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
