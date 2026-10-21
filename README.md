@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,738 | 🐛 136 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,741 | 🐛 136 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,182 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 38,986 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,000 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-21
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -228,7 +228,7 @@
 
 [Learning 3D Human Shape and Pose from Dense Body Parts](https://arxiv.org/pdf/1912.13344.pdf). TPAMI, 2020. [\[Page\]](https://hongwenzhang.github.io/dense2mesh) [\[Code\]](https://github.com/HongwenZhang/DaNet-3DHumanReconstruction) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2023-07-06
 
-[Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [\[Code\]](https://github.com/facebookresearch/eft) ⭐ 407 | 🐛 15 | 🌐 Python | 📅 2022-01-16
+[Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [\[Code\]](https://github.com/facebookresearch/eft) ⭐ 406 | 🐛 15 | 🌐 Python | 📅 2022-01-16
 
 [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). CVPR, 2021. [\[Page\]](https://jeffli.site/HybrIK) [\[Code\]](https://github.com/Jeff-sjtu/HybrIK) ⭐ 1,631 | 🐛 150 | 🌐 Python | 📅 2025-01-08
 
@@ -566,7 +566,7 @@
 
 [DualMotion: Global-to-Local Casual Motion Design for Character Animations](https://arxiv.org/abs/2208.08636). ArXiv, 2022.
 
-[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 324 | 🐛 7 | 🌐 Python | 📅 2026-09-22
+[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 325 | 🐛 7 | 🌐 Python | 📅 2026-09-22
 
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [\[Page\]](https://google.github.io/aichoreographer)
 
@@ -578,7 +578,7 @@
 
 [Rhythm is a Dancer: Music-Driven Motion Synthesis with Global Structure](https://arxiv.org/abs/2111.12159). ArXiv, 2021.
 
-[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 441 | 🐛 38 | 🌐 Python | 📅 2023-12-07
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://arxiv.org/abs/2203.13055). CVPR, 2022.  [\[Code\]](https://github.com/lisiyao21/Bailando) ⭐ 442 | 🐛 38 | 🌐 Python | 📅 2023-12-07
 
 ## Human-Object Interaction
 
@@ -586,7 +586,7 @@
 
 [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 232 | 🐛 10 | 🌐 Python | 📅 2021-07-13
 
-[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 396 | 🐛 10 | 🌐 Python | 📅 2022-03-08
+[GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 397 | 🐛 10 | 🌐 Python | 📅 2022-03-08
 
 [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844). ICCV, 2021. [\[Page\]](http://4dqv.mpi-inf.mpg.de/GraviCap/) [\[Code\]](https://github.com/rishabhdabral/gravicap) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2021-10-12
 
@@ -616,7 +616,7 @@
 
 [HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction](https://arxiv.org/abs/2103.10602). I3D, 2021.
 
-[Skeleton-Aware Networks for Deep Motion Retargeting](https://deepmotionediting.github.io/papers/skeleton-aware-camera-ready.pdf). SIGGRAPH, 2020. [\[Page\]](https://deepmotionediting.github.io/retargeting) [\[Code\]](https://github.com/DeepMotionEditing/deep-motion-editing) ⭐ 1,727 | 🐛 64 | 🌐 Python | 📅 2024-07-12
+[Skeleton-Aware Networks for Deep Motion Retargeting](https://deepmotionediting.github.io/papers/skeleton-aware-camera-ready.pdf). SIGGRAPH, 2020. [\[Page\]](https://deepmotionediting.github.io/retargeting) [\[Code\]](https://github.com/DeepMotionEditing/deep-motion-editing) ⭐ 1,728 | 🐛 64 | 🌐 Python | 📅 2024-07-12
 
 [Contact-Aware Retargeting of Skinned Motion](https://arxiv.org/abs/2109.07431). ICCV, 2021.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
