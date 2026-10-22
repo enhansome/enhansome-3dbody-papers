@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2741,
+            "stars": 2742,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2182,
+            "stars": 2183,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T07:52:25Z",
+            "last_commit": "2026-10-22T17:29:10Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39000,
+            "stars": 39009,
             "topics": [
               "ai",
               "machine-learning",
@@ -210,7 +210,7 @@
             "open_issues": 1,
             "owner": "neuralbodies",
             "repo": "leap",
-            "stars": 75,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -263,7 +263,7 @@
             "open_issues": 5,
             "owner": "soshishimada",
             "repo": "PhysCap_demo_release",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2182,
+            "stars": 2183,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1397,7 +1397,7 @@
             "open_issues": 16,
             "owner": "HongwenZhang",
             "repo": "PyMAF",
-            "stars": 654,
+            "stars": 653,
             "topics": [
               "3d-human-pose",
               "3d-human-shape-and-pose-estimation",
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1530,7 +1530,7 @@
             "open_issues": 41,
             "owner": "mks0601",
             "repo": "3DMPPE_POSENET_RELEASE",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "3d-human-pose",
               "computer-vision",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1542,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1739,7 +1739,7 @@
             "open_issues": 10,
             "owner": "akanazawa",
             "repo": "human_dynamics",
-            "stars": 658,
+            "stars": 659,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2182,
+            "stars": 2183,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2103,7 +2103,7 @@
             "open_issues": 48,
             "owner": "vchoutas",
             "repo": "expose",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "3d-pose-estimation",
               "expressive-body-capture",
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9722,
+            "stars": 9723,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1213,
+            "stars": 1211,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -3168,7 +3168,7 @@
             "open_issues": 1,
             "owner": "mohamedhassanmus",
             "repo": "SAMP",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3303,7 +3303,7 @@
             "open_issues": 29,
             "owner": "brjathu",
             "repo": "PHALP",
-            "stars": 349,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3324,7 +3324,7 @@
             "open_issues": 5,
             "owner": "jiashunwang",
             "repo": "Long-term-Motion-in-3D-Scenes",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3698,7 +3698,7 @@
             "open_issues": 28,
             "owner": "zhan-xu",
             "repo": "RigNet",
-            "stars": 1522,
+            "stars": 1523,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3716,10 +3716,10 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2024-07-12T15:05:13Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "DeepMotionEditing",
             "repo": "deep-motion-editing",
-            "stars": 1728,
+            "stars": 1729,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -3768,7 +3768,7 @@
             "open_issues": 20,
             "owner": "PeizhuoLi",
             "repo": "neural-blend-shapes",
-            "stars": 704,
+            "stars": 705,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -3900,7 +3900,7 @@
             "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 242,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4236,7 +4236,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4323,7 +4323,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:43:32.922Z",
+    "last_updated": "2026-10-22T23:40:05.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
