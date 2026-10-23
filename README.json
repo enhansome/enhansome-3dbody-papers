@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2742,
+            "stars": 2743,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2183,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T17:29:10Z",
+            "last_commit": "2026-10-23T21:57:07Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39009,
+            "stars": 39015,
             "topics": [
               "ai",
               "machine-learning",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2183,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1397,7 +1397,7 @@
             "open_issues": 16,
             "owner": "HongwenZhang",
             "repo": "PyMAF",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "3d-human-pose",
               "3d-human-shape-and-pose-estimation",
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2183,
+            "stars": 2182,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9723,
+            "stars": 9722,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3719,7 +3719,7 @@
             "open_issues": 65,
             "owner": "DeepMotionEditing",
             "repo": "deep-motion-editing",
-            "stars": 1729,
+            "stars": 1730,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:40:05.730Z",
+    "last_updated": "2026-10-23T23:34:13.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
