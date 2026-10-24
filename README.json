@@ -131,10 +131,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T21:57:07Z",
-            "open_issues": 2009,
+            "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39015,
+            "stars": 39016,
             "topics": [
               "ai",
               "machine-learning",
@@ -714,7 +714,7 @@
             "open_issues": 14,
             "owner": "Vegetebird",
             "repo": "MHFormer",
-            "stars": 610,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1226,7 +1226,7 @@
             "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 736,
+            "stars": 735,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1645,7 +1645,7 @@
             "open_issues": 38,
             "owner": "NVlabs",
             "repo": "GLAMR",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "3d-reconstruction",
               "cvpr2022",
@@ -3066,7 +3066,7 @@
             "open_issues": 9,
             "owner": "ZheC",
             "repo": "GTA-IM-Dataset",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "3d-human-pose",
               "dataset",
@@ -3387,7 +3387,7 @@
             "open_issues": 7,
             "owner": "electronicarts",
             "repo": "character-motion-vaes",
-            "stars": 325,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:34:13.016Z",
+    "last_updated": "2026-10-24T22:44:55.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
