@@ -19,7 +19,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2744,
+            "stars": 2745,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2182,
+            "stars": 2184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T00:00:25Z",
+            "last_commit": "2026-10-26T20:10:08Z",
             "open_issues": 2024,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39025,
+            "stars": 39037,
             "topics": [
               "ai",
               "machine-learning",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2182,
+            "stars": 2184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1631,
+            "stars": 1633,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1542,
+            "stars": 1543,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2182,
+            "stars": 2184,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 399,
+            "stars": 400,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3596,7 +3596,7 @@
             "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -3698,7 +3698,7 @@
             "open_issues": 28,
             "owner": "zhan-xu",
             "repo": "RigNet",
-            "stars": 1523,
+            "stars": 1524,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3849,7 +3849,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1021,
+            "stars": 1022,
             "topics": [
               "action-recognition",
               "human",
@@ -4508,7 +4508,7 @@
             "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 193,
+            "stars": 194,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:50:00.717Z",
+    "last_updated": "2026-10-27T00:06:24.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
@@ -4535,7 +4535,7 @@
       "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 664,
+      "stars": 665,
       "topics": [
         "3d-body",
         "3d-pose",
