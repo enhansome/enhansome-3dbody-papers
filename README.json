@@ -92,7 +92,7 @@
             "open_issues": 5,
             "owner": "ahmedosman",
             "repo": "SUPR",
-            "stars": 184,
+            "stars": 185,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39065,
+            "stars": 39075,
             "topics": [
               "ai",
               "machine-learning",
@@ -1848,7 +1848,7 @@
             "open_issues": 30,
             "owner": "microsoft",
             "repo": "MeshTransformer",
-            "stars": 647,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2804,7 +2804,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1680,
+            "stars": 1679,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:10:08.453Z",
+    "last_updated": "2026-10-31T23:48:12.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
