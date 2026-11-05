@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-08-12T05:09:47Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2750,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T23:22:33Z",
-            "open_issues": 2009,
+            "last_commit": "2026-11-04T16:49:43Z",
+            "open_issues": 2010,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39102,
+            "stars": 39112,
             "topics": [
               "ai",
               "machine-learning",
@@ -1476,7 +1476,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1558,7 +1558,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1587,7 +1587,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -1616,7 +1616,7 @@
             "open_issues": 196,
             "owner": "Arthur151",
             "repo": "ROMP",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "3d-mesh-recovery",
               "bottom-up",
@@ -3429,7 +3429,7 @@
             "open_issues": 38,
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 442,
+            "stars": 443,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3846,7 +3846,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2022-03-04T08:02:16Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
             "stars": 439,
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:56:03.574Z",
+    "last_updated": "2026-11-05T01:06:00.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
