@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2749,
+            "stars": 2751,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2185,
+            "stars": 2186,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T17:57:19Z",
+            "last_commit": "2026-11-06T18:41:04Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39119,
+            "stars": 39122,
             "topics": [
               "ai",
               "machine-learning",
@@ -857,7 +857,7 @@
             "open_issues": 21,
             "owner": "FORTH-ModelBasedTracker",
             "repo": "MocapNET",
-            "stars": 956,
+            "stars": 957,
             "topics": [
               "2d-to-3d",
               "3d-animation",
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2185,
+            "stars": 2186,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1397,7 +1397,7 @@
             "open_issues": 16,
             "owner": "HongwenZhang",
             "repo": "PyMAF",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "3d-human-pose",
               "3d-human-shape-and-pose-estimation",
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2185,
+            "stars": 2186,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9721,
+            "stars": 9718,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3387,7 +3387,7 @@
             "open_issues": 7,
             "owner": "electronicarts",
             "repo": "character-motion-vaes",
-            "stars": 326,
+            "stars": 327,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3698,7 +3698,7 @@
             "open_issues": 28,
             "owner": "zhan-xu",
             "repo": "RigNet",
-            "stars": 1527,
+            "stars": 1528,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1026,
+            "stars": 1027,
             "topics": [
               "action-recognition",
               "human",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:09:59.427Z",
+    "last_updated": "2026-11-07T00:25:35.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
