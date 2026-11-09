@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2752,
+            "stars": 2753,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39127,
+            "stars": 39139,
             "topics": [
               "ai",
               "machine-learning",
@@ -3429,7 +3429,7 @@
             "open_issues": 38,
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 443,
+            "stars": 444,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4050,8 +4050,8 @@
             "id": 549494877,
             "language": "Python",
             "license": null,
-            "last_commit": "2024-04-12T10:07:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-08T11:38:49Z",
+            "open_issues": 3,
             "owner": "AndresCasado",
             "repo": "pergamo",
             "stars": 40,
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:01:37.215Z",
+    "last_updated": "2026-11-09T00:08:10.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
