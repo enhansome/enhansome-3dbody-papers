@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2753,
+            "stars": 2754,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2186,
+            "stars": 2189,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T18:41:04Z",
+            "last_commit": "2026-11-09T18:10:16Z",
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39139,
+            "stars": 39148,
             "topics": [
               "ai",
               "machine-learning",
@@ -388,7 +388,7 @@
             "open_issues": 4,
             "owner": "ailingzengzzz",
             "repo": "Split-and-Recombine-Net",
-            "stars": 40,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -584,7 +584,7 @@
             "open_issues": 28,
             "owner": "sail-sg",
             "repo": "mvp",
-            "stars": 339,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -964,7 +964,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2186,
+            "stars": 2189,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1672,
+            "stars": 1673,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1226,7 +1226,7 @@
             "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 736,
+            "stars": 737,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1636,
+            "stars": 1635,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1530,7 +1530,7 @@
             "open_issues": 41,
             "owner": "mks0601",
             "repo": "3DMPPE_POSENET_RELEASE",
-            "stars": 867,
+            "stars": 866,
             "topics": [
               "3d-human-pose",
               "computer-vision",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3218,
+            "stars": 3217,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -1848,7 +1848,7 @@
             "open_issues": 30,
             "owner": "microsoft",
             "repo": "MeshTransformer",
-            "stars": 648,
+            "stars": 647,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2061,7 +2061,7 @@
             "open_issues": 88,
             "owner": "vchoutas",
             "repo": "smplify-x",
-            "stars": 2186,
+            "stars": 2189,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2130,7 +2130,7 @@
             "open_issues": 33,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 798,
+            "stars": 799,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 455,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9718,
+            "stars": 9717,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1213,
+            "stars": 1214,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -3387,7 +3387,7 @@
             "open_issues": 7,
             "owner": "electronicarts",
             "repo": "character-motion-vaes",
-            "stars": 327,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "body-object-contact",
               "contact",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:08:10.971Z",
+    "last_updated": "2026-11-10T02:58:38.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
