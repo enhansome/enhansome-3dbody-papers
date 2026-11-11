@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2754,
+            "stars": 2757,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -134,7 +134,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39148,
+            "stars": 39151,
             "topics": [
               "ai",
               "machine-learning",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -2130,7 +2130,7 @@
             "open_issues": 33,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 799,
+            "stars": 800,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 456,
+            "stars": 457,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9717,
+            "stars": 9718,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2846,7 +2846,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -3498,7 +3498,7 @@
             "open_issues": 10,
             "owner": "otaheri",
             "repo": "GRAB",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "body-object-contact",
               "contact",
@@ -3596,7 +3596,7 @@
             "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -4129,7 +4129,7 @@
             "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 455,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4371,7 +4371,7 @@
             "open_issues": 33,
             "owner": "nghorbani",
             "repo": "amass",
-            "stars": 1027,
+            "stars": 1028,
             "topics": [
               "action-recognition",
               "human",
@@ -4508,7 +4508,7 @@
             "open_issues": 3,
             "owner": "xiexh20",
             "repo": "behave-dataset",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:58:38.476Z",
+    "last_updated": "2026-11-11T00:56:02.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
