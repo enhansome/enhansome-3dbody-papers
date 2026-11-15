@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,763 | 🐛 137 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,764 | 🐛 137 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,191 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,169 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-13
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,177 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-14
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -228,7 +228,7 @@
 
 [Learning 3D Human Shape and Pose from Dense Body Parts](https://arxiv.org/pdf/1912.13344.pdf). TPAMI, 2020. [\[Page\]](https://hongwenzhang.github.io/dense2mesh) [\[Code\]](https://github.com/HongwenZhang/DaNet-3DHumanReconstruction) ⭐ 234 | 🐛 4 | 🌐 Python | 📅 2023-07-06
 
-[Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [\[Code\]](https://github.com/facebookresearch/eft) ⭐ 406 | 🐛 15 | 🌐 Python | 📅 2022-01-16
+[Exemplar Fine-Tuning for 3D Human Pose Fitting Towards In-the-Wild 3D Human Pose Estimation](https://arxiv.org/pdf/2004.03686). ArXiv, 2020.  [\[Code\]](https://github.com/facebookresearch/eft) ⭐ 407 | 🐛 15 | 🌐 Python | 📅 2022-01-16
 
 [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672). CVPR, 2021. [\[Page\]](https://jeffli.site/HybrIK) [\[Code\]](https://github.com/Jeff-sjtu/HybrIK) ⭐ 1,635 | 🐛 150 | 🌐 Python | 📅 2025-01-08
 
@@ -328,7 +328,7 @@
 
 [Collaborative Regression of Expressive Bodies using Moderation](https://arxiv.org/abs/2105.05301). ArXiv, 2021. [\[Page\]](https://pixie.is.tue.mpg.de)
 
-[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 800 | 🐛 33 | 🌐 Python | 📅 2024-08-26
+[One-Stage 3D Whole-Body Mesh Recovery](https://arxiv.org/abs/2303.16160). CVPR, 2023. [\[Page\]](https://osx-ubody.github.io/) [\[Code\]](https://github.com/IDEA-Research/OSX) ⭐ 801 | 🐛 33 | 🌐 Python | 📅 2024-08-26
 
 [Binarized 3D Whole-body Human Mesh Recovery](https://arxiv.org/abs/2311.14323). ArXiv, 2023.  [\[Code\]](https://github.com/ZHITENGLI/BiDRN) ⭐ 15 | 🐛 1 | 📅 2023-12-02
 
@@ -466,7 +466,7 @@
 
 [ICON: Implicit Clothed humans Obtained from Normals](https://arxiv.org/abs/2112.09127). CVPR, 2022. [\[Page\]](https://icon.is.tue.mpg.de/) [\[Code\]](https://github.com/YuliangXiu/ICON) ⭐ 1,679 | 🐛 52 | 🌐 Python | 📅 2023-11-23
 
-[ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/abs/2212.07422). CVPR, 2023. [\[Page\]](https://xiuyuliang.cn/econ/) [\[Code\]](https://github.com/YuliangXiu/ECON) ⭐ 1,216 | 🐛 41 | 🌐 Python | 📅 2024-09-17
+[ECON: Explicit Clothed humans Optimized via Normal integration](https://arxiv.org/abs/2212.07422). CVPR, 2023. [\[Page\]](https://xiuyuliang.cn/econ/) [\[Code\]](https://github.com/YuliangXiu/ECON) ⭐ 1,217 | 🐛 41 | 🌐 Python | 📅 2024-09-17
 
 [Neural-GIF: Neural Generalized Implicit Functions for Animating People in Clothing](https://arxiv.org/abs/2108.08807). ICCV, 2021. [\[Page\]](https://virtualhumans.mpi-inf.mpg.de/neuralgif)
 
@@ -566,7 +566,7 @@
 
 [DualMotion: Global-to-Local Casual Motion Design for Character Animations](https://arxiv.org/abs/2208.08636). ArXiv, 2022.
 
-[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 326 | 🐛 7 | 🌐 Python | 📅 2026-09-22
+[Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274). ToG, 2020. [\[Page\]](https://www.cs.ubc.ca/~hyuling/projects/mvae) [\[Code\]](https://github.com/electronicarts/character-motion-vaes) ⭐ 327 | 🐛 7 | 🌐 Python | 📅 2026-09-22
 
 [Learn to Dance with AIST++: Music Conditioned 3D Dance Generation](https://arxiv.org/abs/2101.08779). ArXiv, 2021. [\[Page\]](https://google.github.io/aichoreographer)
 
@@ -584,7 +584,7 @@
 
 [Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild](https://arxiv.org/abs/2007.15649). ECCV, 2020. [\[Page\]](https://jasonyzhang.com/phosa) [\[Code\]](https://github.com/facebookresearch/phosa) ⚠️ Archived
 
-[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 234 | 🐛 10 | 🌐 Python | 📅 2021-07-13
+[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://arxiv.org/abs/1908.06963). ICCV, 2019. [\[Page\]](https://prox.is.tue.mpg.de) [\[Code\]](https://github.com/MohameHassan/PROX) ⭐ 233 | 🐛 10 | 🌐 Python | 📅 2021-07-13
 
 [GRAB: A Dataset of Whole-Body Human Grasping of Objects](https://arxiv.org/abs/2008.11200). ECCV, 2020. [\[Page\]](https://grab.is.tue.mpg.de) [\[Code\]](https://github.com/otaheri/GRAB) ⭐ 406 | 🐛 10 | 🌐 Python | 📅 2022-03-08
 
@@ -612,7 +612,7 @@
 
 [Predicting Animation Skeletons for 3D Articulated Models via Volumetric Nets](http://people.cs.umass.edu/~zhanxu/papers/AnimSkelVolNet.pdf). 3DV (Oral), 2019. [\[Page\]](https://people.cs.umass.edu/~zhanxu/projects/AnimSkelVolNet/) [\[Code\]](https://github.com/zhan-xu/AnimSkelVolNet) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2024-11-04
 
-[RigNet: Neural Rigging for Articulated Characters](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf). SIGGRAPH, 2020. [\[Page\]](https://zhan-xu.github.io/rig-net) [\[Code\]](https://github.com/zhan-xu/RigNet) ⭐ 1,528 | 🐛 28 | 🌐 Python | 📅 2024-11-04
+[RigNet: Neural Rigging for Articulated Characters](https://people.cs.umass.edu/~zhanxu/papers/RigNet.pdf). SIGGRAPH, 2020. [\[Page\]](https://zhan-xu.github.io/rig-net) [\[Code\]](https://github.com/zhan-xu/RigNet) ⭐ 1,529 | 🐛 28 | 🌐 Python | 📅 2024-11-04
 
 [HeterSkinNet: A Heterogeneous Network for Skin Weights Prediction](https://arxiv.org/abs/2103.10602). I3D, 2021.
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
