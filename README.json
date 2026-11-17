@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2764,
+            "stars": 2765,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "ahmedosman",
             "repo": "STAR",
-            "stars": 726,
+            "stars": 728,
             "topics": [
               "3d-models",
               "body",
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39183,
+            "stars": 39199,
             "topics": [
               "ai",
               "machine-learning",
@@ -605,7 +605,7 @@
             "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "cvpr"
             ]
@@ -628,7 +628,7 @@
             "open_issues": 20,
             "owner": "zju3dv",
             "repo": "mvpose",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "cvpr"
             ]
@@ -693,7 +693,7 @@
             "open_issues": 25,
             "owner": "zczcwh",
             "repo": "PoseFormer",
-            "stars": 584,
+            "stars": 585,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1505,7 +1505,7 @@
             "open_issues": 9,
             "owner": "JiangWenPL",
             "repo": "multiperson",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "cvpr",
               "cvpr2020",
@@ -1848,7 +1848,7 @@
             "open_issues": 30,
             "owner": "microsoft",
             "repo": "MeshTransformer",
-            "stars": 647,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2040,7 +2040,7 @@
             "open_issues": 18,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "MonocularTotalCapture",
-            "stars": 677,
+            "stars": 678,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2282,7 +2282,7 @@
             "open_issues": 23,
             "owner": "jby1993",
             "repo": "SelfReconCode",
-            "stars": 415,
+            "stars": 416,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9717,
+            "stars": 9716,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2913,7 +2913,7 @@
             "open_issues": 14,
             "owner": "google",
             "repo": "mannequinchallenge",
-            "stars": 491,
+            "stars": 492,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3303,7 +3303,7 @@
             "open_issues": 29,
             "owner": "brjathu",
             "repo": "PHALP",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3429,7 +3429,7 @@
             "open_issues": 38,
             "owner": "lisiyao21",
             "repo": "Bailando",
-            "stars": 444,
+            "stars": 445,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3719,7 +3719,7 @@
             "open_issues": 65,
             "owner": "DeepMotionEditing",
             "repo": "deep-motion-editing",
-            "stars": 1735,
+            "stars": 1736,
             "topics": [
               "character-animation",
               "computer-animation",
@@ -3849,7 +3849,7 @@
             "open_issues": 0,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -4173,7 +4173,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 955,
+            "stars": 956,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4236,7 +4236,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4323,7 +4323,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 525,
+            "stars": 526,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T00:25:15.049Z",
+    "last_updated": "2026-11-17T03:13:55.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
@@ -4535,7 +4535,7 @@
       "open_issues": 2,
       "owner": "3DFaceBody",
       "repo": "awesome-3dbody-papers",
-      "stars": 664,
+      "stars": 665,
       "topics": [
         "3d-body",
         "3d-pose",
