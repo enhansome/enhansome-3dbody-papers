@@ -61,7 +61,7 @@
             "open_issues": 13,
             "owner": "ahmedosman",
             "repo": "STAR",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "3d-models",
               "body",
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T16:31:35Z",
+            "last_commit": "2026-11-17T17:57:37Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39199,
+            "stars": 39213,
             "topics": [
               "ai",
               "machine-learning",
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1673,
+            "stars": 1674,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1347,7 +1347,7 @@
             "open_issues": 15,
             "owner": "facebookresearch",
             "repo": "eft",
-            "stars": 407,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -2179,7 +2179,7 @@
             "open_issues": 9,
             "owner": "Xinyu-Yi",
             "repo": "TransPose",
-            "stars": 457,
+            "stars": 458,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3303,7 +3303,7 @@
             "open_issues": 29,
             "owner": "brjathu",
             "repo": "PHALP",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -3900,7 +3900,7 @@
             "open_issues": 4,
             "owner": "hbertiche",
             "repo": "NeuralClothSim",
-            "stars": 242,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -4368,7 +4368,7 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T12:37:29Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "nghorbani",
             "repo": "amass",
             "stars": 1028,
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:13:55.575Z",
+    "last_updated": "2026-11-18T02:37:23.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
