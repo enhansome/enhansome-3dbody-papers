@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,251 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-21
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,261 | 🐛 2,014 | 🌐 Jupyter Notebook | 📅 2026-11-21
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -84,7 +84,7 @@
 
 [Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation](https://arxiv.org/abs/2108.07181). ICCV, 2021.  [\[Code\]](https://github.com/ailingzengzzz/Skeletal-GNN)
 
-[Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [\[Code\]](https://github.com/karfly/learnable-triangulation-pytorch) ⭐ 1,135 | 🐛 35 | 🌐 Python | 📅 2023-10-03
+[Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [\[Code\]](https://github.com/karfly/learnable-triangulation-pytorch) ⭐ 1,136 | 🐛 35 | 🌐 Python | 📅 2023-10-03
 
 [FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction](https://arxiv.org/abs/2105.01937). ArXiv, 2021. [\[Page\]](https://briang13.github.io/FLEX)
 
@@ -220,7 +220,7 @@
 
 [MeshLifter: Weakly Supervised Approach for 3D Human Mesh Reconstruction from a Single 2D Pose Based on Loop Structure](https://www.researchgate.net/publication/343339747_MeshLifter_Weakly_Supervised_Approach_for_3D_Human_Mesh_Reconstruction_from_a_Single_2D_Pose_Based_on_Loop_Structure). Sensors, 2020.  [\[Code\]](https://github.com/sunwonlikeyou/MeshLifter) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2020-07-29
 
-[Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose](https://arxiv.org/abs/2008.09047). ECCV, 2020.  [\[Code\]](https://github.com/hongsukchoi/Pose2Mesh_RELEASE) ⭐ 725 | 🐛 50 | 🌐 Python | 📅 2023-06-09
+[Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose](https://arxiv.org/abs/2008.09047). ECCV, 2020.  [\[Code\]](https://github.com/hongsukchoi/Pose2Mesh_RELEASE) ⭐ 726 | 🐛 50 | 🌐 Python | 📅 2023-06-09
 
 [PoseNet3D: Learning Temporally Consistent 3D Human Pose via Knowledge Distillation](https://arxiv.org/abs/2003.03473). 3DV, 2020.
 
@@ -338,7 +338,7 @@
 
 [SOMA: Solving Optical Marker-Based MoCap Automatically](https://arxiv.org/abs/2110.04431). ICCV, 2021. [\[Page\]](https://soma.is.tue.mpg.de/)
 
-[TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 458 | 🐛 9 | 🌐 Python | 📅 2025-05-08
+[TransPose: Real-time 3D Human Translation and Pose Estimation with Six Inertial Sensors](https://arxiv.org/abs/2105.04605). SIGGRAPH, 2021. [\[Page\]](https://xinyu-yi.github.io/TransPose) [\[Code\]](https://github.com/Xinyu-Yi/TransPose/) ⭐ 459 | 🐛 9 | 🌐 Python | 📅 2025-05-08
 
 [Physical Inertial Poser (PIP): Physics-aware Real-time Human Motion Tracking from Sparse Inertial Sensors](https://arxiv.org/abs/2203.08528). CVPR, 2022. [\[Page\]](https://xinyu-yi.github.io/PIP/) [\[Code\]](https://github.com/Xinyu-Yi/PIP) ⭐ 369 | 🐛 12 | 🌐 Python | 📅 2025-05-08
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
