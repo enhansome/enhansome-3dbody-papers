@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2772,
+            "stars": 2775,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -92,7 +92,7 @@
             "open_issues": 5,
             "owner": "ahmedosman",
             "repo": "SUPR",
-            "stars": 186,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T23:54:31Z",
+            "last_commit": "2026-11-26T08:37:24Z",
             "open_issues": 2020,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39447,
+            "stars": 39532,
             "topics": [
               "ai",
               "machine-learning",
@@ -1184,7 +1184,7 @@
             "open_issues": 51,
             "owner": "nkolot",
             "repo": "SPIN",
-            "stars": 892,
+            "stars": 893,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1368,7 +1368,7 @@
             "open_issues": 150,
             "owner": "jeffffffli",
             "repo": "HybrIK",
-            "stars": 1636,
+            "stars": 1637,
             "topics": [
               "3d-pose-estimation",
               "cvpr",
@@ -1645,7 +1645,7 @@
             "open_issues": 38,
             "owner": "NVlabs",
             "repo": "GLAMR",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "3d-reconstruction",
               "cvpr2022",
@@ -1760,7 +1760,7 @@
             "open_issues": 126,
             "owner": "mkocabas",
             "repo": "VIBE",
-            "stars": 3219,
+            "stars": 3221,
             "topics": [
               "3d-human-pose",
               "3d-pose-estimation",
@@ -2130,7 +2130,7 @@
             "open_issues": 33,
             "owner": "IDEA-Research",
             "repo": "OSX",
-            "stars": 801,
+            "stars": 802,
             "topics": [
               "3d-body-recovery",
               "cvpr2023",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:13:18.755Z",
+    "last_updated": "2026-11-27T03:18:24.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",
