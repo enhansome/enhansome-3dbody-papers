@@ -19,7 +19,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2775,
+            "stars": 2779,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -130,11 +130,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T08:37:24Z",
-            "open_issues": 2020,
+            "last_commit": "2026-11-27T16:02:30Z",
+            "open_issues": 2023,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39532,
+            "stars": 39567,
             "topics": [
               "ai",
               "machine-learning",
@@ -430,7 +430,7 @@
             "open_issues": 35,
             "owner": "karfly",
             "repo": "learnable-triangulation-pytorch",
-            "stars": 1136,
+            "stars": 1135,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1163,7 +1163,7 @@
             "open_issues": 19,
             "owner": "akanazawa",
             "repo": "hmr",
-            "stars": 1674,
+            "stars": 1675,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1226,7 +1226,7 @@
             "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 737,
+            "stars": 738,
             "topics": []
           },
           "first_seen": "2026-08-28T04:54:49.610Z"
@@ -1268,7 +1268,7 @@
             "open_issues": 50,
             "owner": "hongsukchoi",
             "repo": "Pose2Mesh_RELEASE",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "2d-human-pose",
               "3d-human-mesh",
@@ -2541,7 +2541,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1822,
+            "stars": 1823,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -4523,7 +4523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:18:24.440Z",
+    "last_updated": "2026-11-28T02:58:24.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎Awesome list of papers about 3D body",

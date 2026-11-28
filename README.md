@@ -28,7 +28,7 @@
 
 [SCAPE: Shape Completion and Animation of People](http://robots.stanford.edu/papers/anguelov.shapecomp.pdf). SIGGRAPH, 2005. [\[Page\]](http://robotics.stanford.edu/~drago/Projects/scape/scape.html)
 
-[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,775 | 🐛 137 | 🌐 Python | 📅 2024-08-12
+[SMPL: A Skinned Multi-Person Linear Model](http://files.is.tue.mpg.de/black/papers/SMPL2015.pdf). SIGGRAPH Asia, 2015. [\[Page\]](https://smpl.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplx) ⭐ 2,779 | 🐛 137 | 🌐 Python | 📅 2024-08-12
 
 [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/497/SMPL-X.pdf). CVPR, 2019. [\[Page\]](https://smpl-x.is.tue.mpg.de) [\[Code\]](https://github.com/vchoutas/smplify-x) ⭐ 2,192 | 🐛 88 | 🌐 Python | 📅 2024-02-23
 
@@ -44,7 +44,7 @@
 
 [Joint Optimization for Multi-Person Shape Models from Markerless 3D-Scans](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630035.pdf). ECCV, 2020.  [\[Code\]](https://github.com/Intelligent-Systems-Research-Group/JOMS) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2024-07-15
 
-[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,532 | 🐛 2,020 | 🌐 Jupyter Notebook | 📅 2026-11-26
+[GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models](https://arxiv.org/pdf/2008.08535). CVPR (Oral), 2020.  [\[Code\]](https://github.com/google-research/google-research/tree/master/ghum) ⭐ 39,567 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27
 
 [PanoMan: Sparse Localized Components–based Model for Full Human Motions](http://nieyongwei.net/download/PanoMan.pdf). ToG, 2021.
 
@@ -84,7 +84,7 @@
 
 [Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation](https://arxiv.org/abs/2108.07181). ICCV, 2021.  [\[Code\]](https://github.com/ailingzengzzz/Skeletal-GNN)
 
-[Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [\[Code\]](https://github.com/karfly/learnable-triangulation-pytorch) ⭐ 1,136 | 🐛 35 | 🌐 Python | 📅 2023-10-03
+[Learnable Triangulation of Human Pose](https://arxiv.org/abs/1905.05754). ICCV (Oral), 2019.  [\[Code\]](https://github.com/karfly/learnable-triangulation-pytorch) ⭐ 1,135 | 🐛 35 | 🌐 Python | 📅 2023-10-03
 
 [FLEX: Parameter-free Multi-view 3D Human Motion Reconstruction](https://arxiv.org/abs/2105.01937). ArXiv, 2021. [\[Page\]](https://briang13.github.io/FLEX)
 
@@ -206,7 +206,7 @@
 
 [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474). ECCV, 2020. [\[Page\]](https://ait.ethz.ch/projects/2020/learned-body-fitting)
 
-[End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [\[Page\]](https://akanazawa.github.io/hmr) [\[Code\]](https://github.com/akanazawa/hmr) ⭐ 1,674 | 🐛 19 | 🌐 Python | 📅 2023-07-10
+[End-to-end Recovery of Human Shape and Pose](https://arxiv.org/pdf/1712.06584.pdf). CVPR, 2018. [\[Page\]](https://akanazawa.github.io/hmr) [\[Code\]](https://github.com/akanazawa/hmr) ⭐ 1,675 | 🐛 19 | 🌐 Python | 📅 2023-07-10
 
 [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/pdf/1909.12828.pdf). ICCV, 2019. [\[Page\]](https://www.seas.upenn.edu/~nkolot/projects/spin) [\[Code\]](https://github.com/nkolot/SPIN) ⭐ 893 | 🐛 51 | 🌐 Python | 📅 2023-12-12
 
@@ -216,11 +216,11 @@
 
 [Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232). ECCV, 2020. [\[Page\]](https://cs.gmu.edu/~ggeorgak)
 
-[I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image](https://arxiv.org/abs/2008.03713). ECCV, 2020.  [\[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE) ⭐ 737 | 🐛 51 | 🌐 Python | 📅 2024-07-10
+[I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image](https://arxiv.org/abs/2008.03713). ECCV, 2020.  [\[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE) ⭐ 738 | 🐛 51 | 🌐 Python | 📅 2024-07-10
 
 [MeshLifter: Weakly Supervised Approach for 3D Human Mesh Reconstruction from a Single 2D Pose Based on Loop Structure](https://www.researchgate.net/publication/343339747_MeshLifter_Weakly_Supervised_Approach_for_3D_Human_Mesh_Reconstruction_from_a_Single_2D_Pose_Based_on_Loop_Structure). Sensors, 2020.  [\[Code\]](https://github.com/sunwonlikeyou/MeshLifter) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2020-07-29
 
-[Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose](https://arxiv.org/abs/2008.09047). ECCV, 2020.  [\[Code\]](https://github.com/hongsukchoi/Pose2Mesh_RELEASE) ⭐ 726 | 🐛 50 | 🌐 Python | 📅 2023-06-09
+[Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose](https://arxiv.org/abs/2008.09047). ECCV, 2020.  [\[Code\]](https://github.com/hongsukchoi/Pose2Mesh_RELEASE) ⭐ 727 | 🐛 50 | 🌐 Python | 📅 2023-06-09
 
 [PoseNet3D: Learning Temporally Consistent 3D Human Pose via Knowledge Distillation](https://arxiv.org/abs/2003.03473). 3DV, 2020.
 
@@ -422,7 +422,7 @@
 
 [SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://arxiv.org/abs/2007.11610). ECCV (Oral), 2020. [\[Page\]](http://virtualhumans.mpi-inf.mpg.de/sizer) [\[Code\]](https://github.com/garvita-tiwari/sizer) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2024-10-07
 
-[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf). ICCV, 2019. [\[Page\]](https://shunsukesaito.github.io/PIFu) [\[Code\]](https://github.com/shunsukesaito/PIFu) ⭐ 1,822 | 🐛 60 | 🌐 Python | 📅 2023-11-24
+[PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://arxiv.org/pdf/1905.05172.pdf). ICCV, 2019. [\[Page\]](https://shunsukesaito.github.io/PIFu) [\[Code\]](https://github.com/shunsukesaito/PIFu) ⭐ 1,823 | 🐛 60 | 🌐 Python | 📅 2023-11-24
 
 [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://arxiv.org/pdf/2004.00452.pdf). CVPR (Oral), 2020. [\[Page\]](https://shunsukesaito.github.io/PIFuHD) [\[Code\]](https://github.com/facebookresearch/pifuhd) ⚠️ Archived
 
@@ -804,4 +804,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
